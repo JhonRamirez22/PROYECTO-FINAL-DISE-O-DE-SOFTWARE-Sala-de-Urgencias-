@@ -1,1 +1,33 @@
-/tmp/wireframes/buscar-paciente.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="white" font-size="12">Pacientes</text>
+  <text x="30" y="140" fill="rgba(255,255,255,0.7)" font-size="12">Buscar</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Buscar Paciente</text>
+  <rect x="220" y="70" width="650" height="60" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="240" y="100" font-size="12" fill="#555">Buscar por nombre, cédula o historial:</text>
+  <rect x="490" y="82" width="250" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="505" y="102" font-size="11" fill="#aaa">Escribir...</text>
+  <rect x="750" y="82" width="100" height="30" rx="4" fill="#1976d2"/>
+  <text x="800" y="102" text-anchor="middle" fill="white" font-size="12">Buscar</text>
+  <rect x="220" y="150" width="650" height="430" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="240" y="180" font-size="13" font-weight="bold" fill="#333">Resultados (3 encontrados)</text>
+  <rect x="240" y="195" width="610" height="70" rx="6" fill="#fafafa" stroke="#ddd"/>
+  <text x="255" y="220" font-size="12" font-weight="bold" fill="#333">María López</text>
+  <text x="255" y="240" font-size="11" fill="#666">C.I: 12345678 | 45 años | Femenino</text>
+  <text x="255" y="255" font-size="10" fill="#888">Última visita: 25/08/2026 - Triaje: Amarillo</text>
+  <text x="720" y="235" font-size="10" fill="#1976d2">Ver detalle</text>
+  <rect x="240" y="275" width="610" height="70" rx="6" fill="#fafafa" stroke="#ddd"/>
+  <text x="255" y="300" font-size="12" font-weight="bold" fill="#333">María González</text>
+  <text x="255" y="320" font-size="11" fill="#666">C.I: 87654321 | 32 años | Femenino</text>
+  <text x="255" y="335" font-size="10" fill="#888">Última visita: 20/08/2026 - Triaje: Verde</text>
+  <text x="720" y="315" font-size="10" fill="#1976d2">Ver detalle</text>
+  <rect x="240" y="355" width="610" height="70" rx="6" fill="#fafafa" stroke="#ddd"/>
+  <text x="255" y="380" font-size="12" font-weight="bold" fill="#333">María Fernández</text>
+  <text x="255" y="400" font-size="11" fill="#666">C.I: 11223344 | 28 años | Femenino</text>
+  <text x="255" y="415" font-size="10" fill="#888">Última visita: 15/08/2026 - Triaje: Rojo</text>
+  <text x="720" y="395" font-size="10" fill="#1976d2">Ver detalle</text>
+</svg>

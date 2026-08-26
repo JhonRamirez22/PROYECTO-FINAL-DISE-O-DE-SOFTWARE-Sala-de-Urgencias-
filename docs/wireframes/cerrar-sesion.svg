@@ -1,1 +1,20 @@
-/tmp/wireframes/cerrar-sesion.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="rgba(255,255,255,0.7)" font-size="12">Pacientes</text>
+  <text x="30" y="140" fill="rgba(255,255,255,0.7)" font-size="12">Usuarios</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Cerrar Sesión</text>
+  <text x="820" y="32" font-size="12" fill="#666">Admin: Jhon Ramirez</text>
+  <rect x="300" y="180" width="300" height="220" rx="12" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <circle cx="450" cy="240" r="35" fill="#1976d2"/>
+  <text x="450" y="248" text-anchor="middle" fill="white" font-size="28">&#x1F464;</text>
+  <text x="450" y="295" text-anchor="middle" font-size="16" font-weight="bold" fill="#333">¿Cerrar sesión?</text>
+  <text x="450" y="318" text-anchor="middle" font-size="12" fill="#888">Serás redirigido al login</text>
+  <rect x="340" y="345" width="110" height="36" rx="6" fill="#d32f2f"/>
+  <text x="395" y="368" text-anchor="middle" fill="white" font-size="13" font-weight="bold">Cerrar</text>
+  <rect x="460" y="345" width="110" height="36" rx="6" fill="white" stroke="#ccc"/>
+  <text x="515" y="368" text-anchor="middle" fill="#666" font-size="13">Cancelar</text>
+</svg>

@@ -1,1 +1,51 @@
-/tmp/wireframes/listar-usuarios.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="rgba(255,255,255,0.7)" font-size="12">Pacientes</text>
+  <text x="30" y="140" fill="white" font-size="12">Usuarios</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Listar Usuarios</text>
+  <rect x="220" y="60" width="200" height="35" rx="6" fill="#1976d2"/>
+  <text x="320" y="82" text-anchor="middle" fill="white" font-size="12">+ Nuevo Usuario</text>
+  <rect x="620" y="60" width="230" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="635" y="80" font-size="11" fill="#aaa">Buscar usuario...</text>
+  <rect x="220" y="110" width="650" height="470" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="240" y="140" font-size="13" font-weight="bold" fill="#333">Usuarios Registrados (5)</text>
+  <text x="240" y="175" font-size="11" font-weight="bold" fill="#555">Nombre</text>
+  <text x="380" y="175" font-size="11" font-weight="bold" fill="#555">Email</text>
+  <text x="540" y="175" font-size="11" font-weight="bold" fill="#555">Rol</text>
+  <text x="660" y="175" font-size="11" font-weight="bold" fill="#555">Estado</text>
+  <text x="760" y="175" font-size="11" font-weight="bold" fill="#555">Acciones</text>
+  <line x1="240" y1="182" x2="840" y2="182" stroke="#eee"/>
+  <text x="240" y="205" font-size="11" fill="#666">Jhon Ramirez</text>
+  <text x="380" y="205" font-size="11" fill="#666">jramirez@urgency.ai</text>
+  <text x="540" y="205" font-size="11" fill="#666">Administrador</text>
+  <text x="660" y="205" font-size="11" fill="#388e3c">Activo</text>
+  <text x="760" y="205" font-size="10" fill="#1976d2">Editar</text>
+  <line x1="240" y1="215" x2="840" y2="215" stroke="#f5f5f5"/>
+  <text x="240" y="235" font-size="11" fill="#666">Dr. Carlos Méndez</text>
+  <text x="380" y="235" font-size="11" fill="#666">cmendez@urgency.ai</text>
+  <text x="540" y="235" font-size="11" fill="#666">Medico</text>
+  <text x="660" y="235" font-size="11" fill="#388e3c">Activo</text>
+  <text x="760" y="235" font-size="10" fill="#1976d2">Editar</text>
+  <line x1="240" y1="245" x2="840" y2="245" stroke="#f5f5f5"/>
+  <text x="240" y="265" font-size="11" fill="#666">Enf. Laura Torres</text>
+  <text x="380" y="265" font-size="11" fill="#666">ltorres@urgency.ai</text>
+  <text x="540" y="265" font-size="11" fill="#666">Enfermera</text>
+  <text x="660" y="265" font-size="11" fill="#388e3c">Activo</text>
+  <text x="760" y="265" font-size="10" fill="#1976d2">Editar</text>
+  <line x1="240" y1="275" x2="840" y2="275" stroke="#f5f5f5"/>
+  <text x="240" y="295" font-size="11" fill="#666">Farm. Ana Rojas</text>
+  <text x="380" y="295" font-size="11" fill="#666">arojas@urgency.ai</text>
+  <text x="540" y="295" font-size="11" fill="#666">Farmaceutico</text>
+  <text x="660" y="295" font-size="11" fill="#388e3c">Activo</text>
+  <text x="760" y="295" font-size="10" fill="#1976d2">Editar</text>
+  <line x1="240" y1="305" x2="840" y2="305" stroke="#f5f5f5"/>
+  <text x="240" y="325" font-size="11" fill="#666">María López (Cajero)</text>
+  <text x="380" y="325" font-size="11" fill="#666">mlopez@urgency.ai</text>
+  <text x="540" y="325" font-size="11" fill="#666">Cajero</text>
+  <text x="660" y="325" font-size="11" fill="#d32f2f">Inactivo</text>
+  <text x="760" y="325" font-size="10" fill="#1976d2">Editar</text>
+</svg>
