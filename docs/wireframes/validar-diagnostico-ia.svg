@@ -1,1 +1,37 @@
-/tmp/wireframes/validar-diagnostico-ia.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="rgba(255,255,255,0.7)" font-size="12">Diagnóstico</text>
+  <text x="30" y="140" fill="white" font-size="12">Validar</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Validar Diagnóstico IA</text>
+  <rect x="220" y="70" width="650" height="510" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="250" y="105" font-size="13" font-weight="bold" fill="#333">Resumen de Validación</text>
+  <text x="250" y="140" font-size="11" fill="#555">Paciente:</text>
+  <rect x="310" y="128" width="250" height="25" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="320" y="146" font-size="11" fill="#333">María López (C.I: 12345678)</text>
+  <text x="250" y="175" font-size="11" fill="#555">Fecha de evaluación:</text>
+  <text x="370" y="175" font-size="11" fill="#333">25/08/2026 09:30</text>
+  <rect x="250" y="195" width="580" height="80" rx="8" fill="#e3f2fd" stroke="#90caf9"/>
+  <text x="270" y="220" font-size="12" font-weight="bold" fill="#1565c0">Diagnóstico de IA</text>
+  <text x="270" y="245" font-size="11" fill="#333">Gastroenteritis aguda (Confianza: 85%)</text>
+  <text x="270" y="265" font-size="11" fill="#333">Recomendación: Ecografía abdominal y laboratorio</text>
+  <text x="250" y="305" font-size="13" font-weight="bold" fill="#333">Validación</text>
+  <text x="250" y="335" font-size="11" fill="#555">Resultado del médico:</text>
+  <rect x="250" y="343" width="15" height="15" rx="3" fill="#388e3c"/>
+  <text x="275" y="356" font-size="11" fill="#333">Correcto</text>
+  <rect x="250" y="368" width="15" height="15" rx="3" fill="#e0e0e0"/>
+  <text x="275" y="381" font-size="11" fill="#333">Parcialmente correcto</text>
+  <rect x="250" y="393" width="15" height="15" rx="3" fill="#e0e0e0"/>
+  <text x="275" y="406" font-size="11" fill="#333">Incorrecto</text>
+  <text x="250" y="435" font-size="11" fill="#555">Diagnóstico final confirmado:</text>
+  <rect x="250" y="443" width="400" height="25" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="260" y="461" font-size="11" fill="#333">Gastroenteritis aguda</text>
+  <text x="250" y="485" font-size="11" fill="#555">Observaciones:</text>
+  <rect x="250" y="493" width="400" height="40" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="260" y="513" font-size="11" fill="#333">Diagnóstico confirmado, tratamiento iniciado</text>
+  <rect x="560" y="510" width="150" height="36" rx="6" fill="#1976d2"/>
+  <text x="635" y="533" text-anchor="middle" fill="white" font-size="13" font-weight="bold">Confirmar Validación</text>
+</svg>

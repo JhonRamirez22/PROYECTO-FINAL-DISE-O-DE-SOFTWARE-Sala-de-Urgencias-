@@ -1,1 +1,45 @@
-/tmp/wireframes/editar-signos.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="white" font-size="12">Signos Vitales</text>
+  <text x="30" y="140" fill="rgba(255,255,255,0.7)" font-size="12">Editar</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Editar Signos Vitales</text>
+  <rect x="220" y="65" width="650" height="50" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="240" y="95" font-size="12" fill="#555">Paciente: María López (C.I: 12345678) | 45 años</text>
+  <rect x="220" y="130" width="650" height="450" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="250" y="165" font-size="13" font-weight="bold" fill="#333">Valores Actuales</text>
+  <text x="250" y="200" font-size="11" fill="#555">Temperatura (°C)</text>
+  <rect x="250" y="208" width="120" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="260" y="228" font-size="11" fill="#333">36.8</text>
+  <text x="400" y="200" font-size="11" fill="#555">Presión Sistólica</text>
+  <rect x="400" y="208" width="120" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="410" y="228" font-size="11" fill="#333">120</text>
+  <text x="550" y="200" font-size="11" fill="#555">Presión Diastólica</text>
+  <rect x="550" y="208" width="120" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="560" y="228" font-size="11" fill="#333">80</text>
+  <text x="250" y="260" font-size="11" fill="#555">Saturación O₂ (%)</text>
+  <rect x="250" y="268" width="120" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="260" y="288" font-size="11" fill="#333">98</text>
+  <text x="400" y="260" font-size="11" fill="#555">Frec. Cardíaca (lpm)</text>
+  <rect x="400" y="268" width="120" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="410" y="288" font-size="11" fill="#333">72</text>
+  <text x="550" y="260" font-size="11" fill="#555">Frec. Resp. (rpm)</text>
+  <rect x="550" y="268" width="120" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="560" y="288" font-size="11" fill="#333">16</text>
+  <text x="250" y="320" font-size="11" fill="#555">Peso (kg)</text>
+  <rect x="250" y="328" width="120" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="260" y="348" font-size="11" fill="#333">68</text>
+  <text x="400" y="320" font-size="11" fill="#555">Talla (cm)</text>
+  <rect x="400" y="328" width="120" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="410" y="348" font-size="11" fill="#333">165</text>
+  <text x="250" y="385" font-size="13" font-weight="bold" fill="#333">Observaciones</text>
+  <rect x="250" y="395" width="400" height="60" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="260" y="415" font-size="11" fill="#333">Paciente estable, sin fiebre</text>
+  <rect x="560" y="510" width="150" height="36" rx="6" fill="#1976d2"/>
+  <text x="635" y="533" text-anchor="middle" fill="white" font-size="13" font-weight="bold">Guardar Cambios</text>
+  <rect x="720" y="510" width="100" height="36" rx="6" fill="white" stroke="#ccc"/>
+  <text x="770" y="533" text-anchor="middle" fill="#666" font-size="13">Cancelar</text>
+</svg>

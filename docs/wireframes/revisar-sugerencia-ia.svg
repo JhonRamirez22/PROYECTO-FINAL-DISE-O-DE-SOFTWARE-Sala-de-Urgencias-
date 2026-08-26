@@ -1,1 +1,33 @@
-/tmp/wireframes/revisar-sugerencia-ia.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="rgba(255,255,255,0.7)" font-size="12">Diagnóstico</text>
+  <text x="30" y="140" fill="white" font-size="12">Revisión</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Revisar Sugerencia de IA</text>
+  <rect x="220" y="70" width="650" height="510" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="250" y="105" font-size="13" font-weight="bold" fill="#333">Paciente: María López (45 años) - C.I: 12345678</text>
+  <rect x="250" y="115" width="100" height="20" rx="4" fill="#fff3e0" stroke="#ffcc80"/>
+  <text x="270" y="130" font-size="9" fill="#e65100">Triaje: Amarillo</text>
+  <text x="250" y="160" font-size="13" font-weight="bold" fill="#333">Datos Clínicos</text>
+  <text x="250" y="190" font-size="11" fill="#555">Motivo de consulta: Dolor abdominal intenso, náuseas, fiebre moderada</text>
+  <text x="250" y="215" font-size="11" fill="#555">Síntomas: Dolor epigástrico, nauseas, temperatura 38.2°C</text>
+  <text x="250" y="240" font-size="11" fill="#555">Signos vitales: PA 130/85, FC 88, SpO2 97%, T 38.2°C</text>
+  <rect x="250" y="255" width="580" height="120" rx="8" fill="#e3f2fd" stroke="#90caf9"/>
+  <text x="270" y="280" font-size="12" font-weight="bold" fill="#1565c0">Diagnóstico Sugerido por IA</text>
+  <text x="270" y="305" font-size="11" fill="#333">1. Gastroenteritis aguda (Confianza: 85%)</text>
+  <text x="270" y="325" font-size="11" fill="#333">2. Apendicitis inicial (Confianza: 45%)</text>
+  <text x="270" y="345" font-size="11" fill="#333">3. Pancreatitis (Confianza: 20%)</text>
+  <text x="270" y="365" font-size="11" fill="#1976d2">Recomendación: Realizar ecografía abdominal y laboratorio</text>
+  <text x="250" y="405" font-size="13" font-weight="bold" fill="#333">Decisión del Médico</text>
+  <text x="250" y="435" font-size="11" fill="#555">Diagnóstico confirmado:</text>
+  <rect x="250" y="443" width="400" height="25" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="260" y="461" font-size="11" fill="#333">Gastroenteritis aguda</text>
+  <text x="250" y="485" font-size="11" fill="#555">Observaciones:</text>
+  <rect x="250" y="493" width="400" height="40" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="260" y="513" font-size="11" fill="#333">Se confirma diagnóstico de IA</text>
+  <rect x="560" y="510" width="150" height="36" rx="6" fill="#1976d2"/>
+  <text x="635" y="533" text-anchor="middle" fill="white" font-size="13" font-weight="bold">Confirmar Diagnóstico</text>
+</svg>

@@ -1,1 +1,38 @@
-/tmp/wireframes/verificar-interacciones.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="rgba(255,255,255,0.7)" font-size="12">Farmacia</text>
+  <text x="30" y="140" fill="white" font-size="12">Interacciones</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Verificar Interacciones</text>
+  <rect x="220" y="70" width="650" height="510" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="250" y="105" font-size="13" font-weight="bold" fill="#333">Medicamentos Activos del Paciente</text>
+  <text x="250" y="135" font-size="11" fill="#555">Paciente:</text>
+  <rect x="310" y="123" width="250" height="25" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="320" y="141" font-size="11" fill="#333">María López (C.I: 12345678)</text>
+  <text x="250" y="175" font-size="11" font-weight="bold" fill="#555">Medicamento</text>
+  <text x="420" y="175" font-size="11" font-weight="bold" fill="#555">Dosis</text>
+  <text x="540" y="175" font-size="11" font-weight="bold" fill="#555">Frecuencia</text>
+  <text x="660" y="175" font-size="11" font-weight="bold" fill="#555">Desde</text>
+  <line x1="250" y1="182" x2="830" y2="182" stroke="#eee"/>
+  <text x="250" y="200" font-size="11" fill="#666">Paracetamol 500mg</text>
+  <text x="420" y="200" font-size="11" fill="#666">1 tableta</text>
+  <text x="540" y="200" font-size="11" fill="#666">Cada 8h</text>
+  <text x="660" y="200" font-size="11" fill="#666">20/08/2026</text>
+  <text x="250" y="225" font-size="11" fill="#666">Ibuprofeno 400mg</text>
+  <text x="420" y="225" font-size="11" fill="#666">1 tableta</text>
+  <text x="540" y="225" font-size="11" fill="#666">Cada 12h</text>
+  <text x="660" y="225" font-size="11" fill="#666">22/08/2026</text>
+  <rect x="250" y="255" width="580" height="80" rx="6" fill="#ffebee" stroke="#ef9a9a"/>
+  <text x="270" y="280" font-size="12" font-weight="bold" fill="#c62828">ALERTA: Interacción Detectada</text>
+  <text x="270" y="300" font-size="11" fill="#333">Paracetamol + Ibuprofeno: Riesgo aumentado de efectos adversos gastrointestinales.</text>
+  <text x="270" y="318" font-size="11" fill="#666">Recomendación: Separar la toma por al menos 2 horas.</text>
+  <rect x="250" y="350" width="580" height="50" rx="6" fill="#e8f5e9" stroke="#a5d6a7"/>
+  <text x="270" y="375" font-size="12" font-weight="bold" fill="#388e3c">Recomendación de IA</text>
+  <text x="270" y="393" font-size="11" fill="#333">Considerar Alternativa: Naproxeno en lugar de Ibuprofeno</text>
+  <rect x="250" y="420" width="580" height="60" rx="6" fill="#fafafa" stroke="#ddd"/>
+  <text x="270" y="445" font-size="11" fill="#555">Nota del Farmacéutico:</text>
+  <rect x="250" y="455" width="400" height="20" rx="4" fill="#fafafa" stroke="#ddd"/>
+</svg>

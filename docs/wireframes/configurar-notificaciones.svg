@@ -1,1 +1,44 @@
-/tmp/wireframes/configurar-notificaciones.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="rgba(255,255,255,0.7)" font-size="12">Configuración</text>
+  <text x="30" y="140" fill="white" font-size="12">Notificaciones</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Configurar Notificaciones</text>
+  <rect x="220" y="70" width="650" height="510" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="250" y="105" font-size="13" font-weight="bold" fill="#333">Preferencias de Notificación</text>
+  <text x="250" y="140" font-size="11" fill="#555">Canales de notificación</text>
+  <rect x="250" y="150" width="15" height="15" rx="3" fill="#1976d2"/>
+  <text x="275" y="162" font-size="11" fill="#333">Email</text>
+  <rect x="250" y="175" width="15" height="15" rx="3" fill="#1976d2"/>
+  <text x="275" y="187" font-size="11" fill="#333">Push en navegador</text>
+  <rect x="250" y="200" width="15" height="15" rx="3" fill="#e0e0e0"/>
+  <text x="275" y="212" font-size="11" fill="#333">SMS</text>
+  <text x="250" y="245" font-size="13" font-weight="bold" fill="#333">Tipos de Notificación</text>
+  <text x="250" y="275" font-size="11" fill="#555">Alertas de stock</text>
+  <rect x="500" y="263" width="40" height="20" rx="10" fill="#1976d2"/>
+  <text x="520" y="278" text-anchor="middle" fill="white" font-size="10">ON</text>
+  <text x="250" y="300" font-size="11" fill="#555">Pacientes críticos</text>
+  <rect x="500" y="288" width="40" height="20" rx="10" fill="#1976d2"/>
+  <text x="520" y="303" text-anchor="middle" fill="white" font-size="10">ON</text>
+  <text x="250" y="325" font-size="11" fill="#555">Diagnósticos pendientes</text>
+  <rect x="500" y="313" width="40" height="20" rx="10" fill="#1976d2"/>
+  <text x="520" y="328" text-anchor="middle" fill="white" font-size="10">ON</text>
+  <text x="250" y="350" font-size="11" fill="#555">Recordatorios de turno</text>
+  <rect x="500" y="338" width="40" height="20" rx="10" fill="#e0e0e0"/>
+  <text x="520" y="353" text-anchor="middle" fill="#666" font-size="10">OFF</text>
+  <text x="250" y="375" font-size="11" fill="#555">Reportes diarios</text>
+  <rect x="500" y="363" width="40" height="20" rx="10" fill="#1976d2"/>
+  <text x="520" y="378" text-anchor="middle" fill="white" font-size="10">ON</text>
+  <text x="250" y="410" font-size="13" font-weight="bold" fill="#333">Horario de Notificaciones</text>
+  <text x="250" y="440" font-size="11" fill="#555">Desde:</text>
+  <rect x="300" y="428" width="100" height="25" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="310" y="446" font-size="11" fill="#333">07:00</text>
+  <text x="420" y="440" font-size="11" fill="#555">Hasta:</text>
+  <rect x="470" y="428" width="100" height="25" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="480" y="446" font-size="11" fill="#333">22:00</text>
+  <rect x="560" y="510" width="150" height="36" rx="6" fill="#1976d2"/>
+  <text x="635" y="533" text-anchor="middle" fill="white" font-size="13" font-weight="bold">Guardar</text>
+</svg>
