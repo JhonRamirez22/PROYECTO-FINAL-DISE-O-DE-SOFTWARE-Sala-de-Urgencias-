@@ -1,1 +1,50 @@
-/tmp/wireframes/generar-reportes.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="rgba(255,255,255,0.7)" font-size="12">Pacientes</text>
+  <text x="30" y="140" fill="white" font-size="12">Reportes</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Generar Reportes</text>
+  <rect x="220" y="70" width="650" height="80" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="250" y="100" font-size="13" font-weight="bold" fill="#333">Filtros de Reporte</text>
+  <text x="250" y="125" font-size="11" fill="#555">Tipo:</text>
+  <rect x="290" y="115" width="150" height="25" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="300" y="133" font-size="11" fill="#333">Atenciones</text>
+  <text x="460" y="125" font-size="11" fill="#555">Período:</text>
+  <rect x="510" y="115" width="120" height="25" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="520" y="133" font-size="11" fill="#333">Agosto 2026</text>
+  <rect x="640" y="115" width="100" height="25" rx="6" fill="#1976d2"/>
+  <text x="690" y="133" text-anchor="middle" fill="white" font-size="11">Generar</text>
+  <rect x="220" y="165" width="650" height="415" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="240" y="195" font-size="13" font-weight="bold" fill="#333">Reporte de Atenciones - Agosto 2026</text>
+  <rect x="240" y="210" width="140" height="60" rx="6" fill="#e3f2fd"/>
+  <text x="250" y="230" font-size="10" fill="#555">Total Atenciones</text>
+  <text x="250" y="255" font-size="20" font-weight="bold" fill="#1565c0">245</text>
+  <rect x="395" y="210" width="140" height="60" rx="6" fill="#e8f5e9"/>
+  <text x="405" y="230" font-size="10" fill="#555">Triaje Rojo</text>
+  <text x="405" y="255" font-size="20" font-weight="bold" fill="#388e3c">32</text>
+  <rect x="550" y="210" width="140" height="60" rx="6" fill="#fff3e0"/>
+  <text x="560" y="230" font-size="10" fill="#555">Triaje Amarillo</text>
+  <text x="560" y="255" font-size="20" font-weight="bold" fill="#e65100">89</text>
+  <rect x="705" y="210" width="140" height="60" rx="6" fill="#f3e5f5"/>
+  <text x="715" y="230" font-size="10" fill="#555">Diagnósticos IA</text>
+  <text x="715" y="255" font-size="20" font-weight="bold" fill="#7b1fa2">198</text>
+  <text x="240" y="305" font-size="12" font-weight="bold" fill="#333">Atenciones por Día</text>
+  <line x1="260" y1="420" x2="820" y2="420" stroke="#e0e0e0"/>
+  <rect x="280" y="380" width="40" height="40" rx="2" fill="#1976d2"/>
+  <text x="300" y="440" text-anchor="middle" font-size="9" fill="#666">Lun</text>
+  <rect x="340" y="360" width="40" height="60" rx="2" fill="#1976d2"/>
+  <text x="360" y="440" text-anchor="middle" font-size="9" fill="#666">Mar</text>
+  <rect x="400" y="340" width="40" height="80" rx="2" fill="#1976d2"/>
+  <text x="420" y="440" text-anchor="middle" font-size="9" fill="#666">Mié</text>
+  <rect x="460" y="350" width="40" height="70" rx="2" fill="#1976d2"/>
+  <text x="480" y="440" text-anchor="middle" font-size="9" fill="#666">Jue</text>
+  <rect x="520" y="370" width="40" height="50" rx="2" fill="#1976d2"/>
+  <text x="540" y="440" text-anchor="middle" font-size="9" fill="#666">Vie</text>
+  <rect x="580" y="390" width="40" height="30" rx="2" fill="#90caf9"/>
+  <text x="600" y="440" text-anchor="middle" font-size="9" fill="#666">Sáb</text>
+  <rect x="640" y="400" width="40" height="20" rx="2" fill="#90caf9"/>
+  <text x="660" y="440" text-anchor="middle" font-size="9" fill="#666">Dom</text>
+</svg>

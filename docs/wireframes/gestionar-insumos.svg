@@ -1,1 +1,57 @@
-/tmp/wireframes/gestionar-insumos.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="rgba(255,255,255,0.7)" font-size="12">Farmacia</text>
+  <text x="30" y="140" fill="white" font-size="12">Insumos</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Gestionar Insumos</text>
+  <rect x="220" y="60" width="200" height="35" rx="6" fill="#1976d2"/>
+  <text x="320" y="82" text-anchor="middle" fill="white" font-size="12">+ Nuevo Insumo</text>
+  <rect x="620" y="60" width="230" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="635" y="80" font-size="11" fill="#aaa">Buscar insumo...</text>
+  <rect x="220" y="110" width="650" height="470" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="240" y="140" font-size="13" font-weight="bold" fill="#333">Inventario de Farmacia (8 items)</text>
+  <text x="240" y="170" font-size="11" font-weight="bold" fill="#555">Medicamento</text>
+  <text x="380" y="170" font-size="11" font-weight="bold" fill="#555">Stock</text>
+  <text x="460" y="170" font-size="11" font-weight="bold" fill="#555">Mínimo</text>
+  <text x="540" y="170" font-size="11" font-weight="bold" fill="#555">Estado</text>
+  <text x="660" y="170" font-size="11" font-weight="bold" fill="#555">Vencimiento</text>
+  <text x="780" y="170" font-size="11" font-weight="bold" fill="#555">Acciones</text>
+  <line x1="240" y1="180" x2="840" y2="180" stroke="#eee"/>
+  <text x="240" y="200" font-size="11" fill="#666">Paracetamol 500mg</text>
+  <text x="380" y="200" font-size="11" fill="#666">250</text>
+  <text x="460" y="200" font-size="11" fill="#666">100</text>
+  <text x="540" y="200" font-size="11" fill="#388e3c">Suficiente</text>
+  <text x="660" y="200" font-size="11" fill="#666">12/2027</text>
+  <text x="780" y="200" font-size="10" fill="#1976d2">Editar</text>
+  <line x1="240" y1="210" x2="840" y2="210" stroke="#f5f5f5"/>
+  <text x="240" y="230" font-size="11" fill="#666">Ibuprofeno 400mg</text>
+  <text x="380" y="230" font-size="11" fill="#d32f2f">15</text>
+  <text x="460" y="230" font-size="11" fill="#666">50</text>
+  <text x="540" y="230" font-size="11" fill="#d32f2f">BAJO</text>
+  <text x="660" y="230" font-size="11" fill="#666">08/2026</text>
+  <text x="780" y="230" font-size="10" fill="#1976d2">Editar</text>
+  <line x1="240" y1="240" x2="840" y2="240" stroke="#f5f5f5"/>
+  <text x="240" y="260" font-size="11" fill="#666">Amoxicilina 500mg</text>
+  <text x="380" y="260" font-size="11" fill="#666">120</text>
+  <text x="460" y="260" font-size="11" fill="#666">80</text>
+  <text x="540" y="260" font-size="11" fill="#388e3c">Suficiente</text>
+  <text x="660" y="260" font-size="11" fill="#666">03/2027</text>
+  <text x="780" y="260" font-size="10" fill="#1976d2">Editar</text>
+  <line x1="240" y1="270" x2="840" y2="270" stroke="#f5f5f5"/>
+  <text x="240" y="290" font-size="11" fill="#666">Omeprazol 20mg</text>
+  <text x="380" y="290" font-size="11" fill="#666">85</text>
+  <text x="460" y="290" font-size="11" fill="#666">60</text>
+  <text x="540" y="290" font-size="11" fill="#388e3c">Suficiente</text>
+  <text x="660" y="290" font-size="11" fill="#666">11/2027</text>
+  <text x="780" y="290" font-size="10" fill="#1976d2">Editar</text>
+  <line x1="240" y1="300" x2="840" y2="300" stroke="#f5f5f5"/>
+  <text x="240" y="320" font-size="11" fill="#666">Dipirona 500mg</text>
+  <text x="380" y="320" font-size="11" fill="#d32f2f">8</text>
+  <text x="460" y="320" font-size="11" fill="#666">30</text>
+  <text x="540" y="320" font-size="11" fill="#d32f2f">BAJO</text>
+  <text x="660" y="320" font-size="11" fill="#666">06/2026</text>
+  <text x="780" y="320" font-size="10" fill="#1976d2">Editar</text>
+</svg>

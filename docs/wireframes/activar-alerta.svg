@@ -1,1 +1,39 @@
-/tmp/wireframes/activar-alerta.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Arial, sans-serif">
+  <rect width="900" height="600" fill="#f0f2f5"/>
+  <rect x="0" y="0" width="200" height="600" fill="#1a237e"/>
+  <text x="100" y="35" text-anchor="middle" fill="white" font-size="16" font-weight="bold">UrgencyAI</text>
+  <text x="30" y="80" fill="rgba(255,255,255,0.7)" font-size="12">Dashboard</text>
+  <text x="30" y="110" fill="rgba(255,255,255,0.7)" font-size="12">Farmacia</text>
+  <text x="30" y="140" fill="white" font-size="12">Alertas</text>
+  <rect x="220" y="0" width="680" height="50" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="240" y="32" font-size="16" font-weight="bold" fill="#333">Activar Alerta de Stock</text>
+  <rect x="220" y="70" width="650" height="510" rx="8" fill="white" stroke="#e0e0e0"/>
+  <text x="250" y="105" font-size="13" font-weight="bold" fill="#333">Configurar Alertas de Inventario</text>
+  <text x="250" y="140" font-size="11" fill="#555">Medicamento:</text>
+  <rect x="250" y="148" width="300" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="260" y="168" font-size="11" fill="#333">Ibuprofeno 400mg</text>
+  <text x="250" y="200" font-size="11" fill="#555">Stock actual:</text>
+  <rect x="250" y="208" width="100" height="30" rx="4" fill="#ffebee" stroke="#ef9a9a"/>
+  <text x="260" y="228" font-size="11" fill="#d32f2f">15 unidades</text>
+  <text x="370" y="200" font-size="11" fill="#555">Mínimo requerido:</text>
+  <rect x="370" y="208" width="100" height="30" rx="4" fill="#fafafa" stroke="#ddd"/>
+  <text x="380" y="228" font-size="11" fill="#333">50 unidades</text>
+  <text x="250" y="260" font-size="12" font-weight="bold" fill="#333">Nivel de Alerta</text>
+  <rect x="250" y="275" width="15" height="15" rx="3" fill="#d32f2f"/>
+  <text x="275" y="288" font-size="11" fill="#333">Crítico (menos del 25%)</text>
+  <rect x="250" y="300" width="15" height="15" rx="3" fill="#f57c00"/>
+  <text x="275" y="313" font-size="11" fill="#333">Bajo (25-50%)</text>
+  <rect x="250" y="325" width="15" height="15" rx="3" fill="#e0e0e0"/>
+  <text x="275" y="338" font-size="11" fill="#333">Normal</text>
+  <text x="250" y="375" font-size="12" font-weight="bold" fill="#333">Canales de Notificación</text>
+  <rect x="250" y="390" width="15" height="15" rx="3" fill="#1976d2"/>
+  <text x="275" y="403" font-size="11" fill="#333">Email a administrador</text>
+  <rect x="250" y="415" width="15" height="15" rx="3" fill="#1976d2"/>
+  <text x="275" y="428" font-size="11" fill="#333">Notificación push</text>
+  <rect x="250" y="440" width="15" height="15" rx="3" fill="#e0e0e0"/>
+  <text x="275" y="453" font-size="11" fill="#333">SMS</text>
+  <text x="250" y="490" font-size="12" font-weight="bold" fill="#333">Historial de Alertas</text>
+  <text x="250" y="515" font-size="11" fill="#666">25/08 - Ibuprofeno: Stock bajo (15/unidades)</text>
+  <text x="250" y="535" font-size="11" fill="#666">24/08 - Dipirona: Stock crítico (8/unidades)</text>
+  <text x="250" y="555" font-size="11" fill="#666">20/08 - Paracetamol: Alerta resuelta (reabastecido)</text>
+</svg>
