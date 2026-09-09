@@ -1,0 +1,247 @@
+<mxfile host="app.diagrams.net" modified="2026-08-26T04:00:00.000Z" agent="Claude" version="24.0.0" type="device">
+  <diagram name="Modelo Conceptual - UrgencyAI" id="modelo-conceptual">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- ENTIDAD: Usuario -->
+        <object id="e_usuario" label="Usuario" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="80" y="80" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_usuario_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_usuario">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_usuario_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_usuario">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: Paciente -->
+        <object id="e_paciente" label="Paciente" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="80" y="260" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_paciente_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_paciente">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_paciente_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_paciente">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: SignosVitales -->
+        <object id="e_signos" label="SignosVitales" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="380" y="260" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_signos_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_signos">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_signos_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_signos">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: DiagnosticoIA -->
+        <object id="e_diagnostico" label="DiagnosticoIA" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="680" y="260" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_diagnostico_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_diagnostico">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_diagnostico_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_diagnostico">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: Triaje -->
+        <object id="e_triaje" label="Triaje" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="680" y="440" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_triaje_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_triaje">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_triaje_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_triaje">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: Notificacion -->
+        <object id="e_notificacion" label="Notificacion" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="680" y="620" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_notificacion_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_notificacion">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_notificacion_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_notificacion">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: AlertaEmergencia -->
+        <object id="e_alerta" label="AlertaEmergencia" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="980" y="620" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_alerta_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_alerta">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_alerta_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_alerta">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: Medicamento -->
+        <object id="e_medicamento" label="Medicamento" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="380" y="80" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_medicamento_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_medicamento">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_medicamento_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_medicamento">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: Dosis -->
+        <object id="e_dosis" label="Dosis" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="380" y="440" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_dosis_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_dosis">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_dosis_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_dosis">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: InteraccionMedicamentosa -->
+        <object id="e_interaccion" label="InteraccionMedicamentosa" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=14;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="380" y="620" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_interaccion_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_interaccion">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_interaccion_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_interaccion">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: InsumoMedico -->
+        <object id="e_insumo" label="InsumoMedico" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="80" y="440" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_insumo_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_insumo">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_insumo_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_insumo">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: Reporte -->
+        <object id="e_reporte" label="Reporte" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="80" y="620" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_reporte_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_reporte">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_reporte_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_reporte">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ENTIDAD: Auditoria -->
+        <object id="e_auditoria" label="Auditoria" tags="entidad">
+          <mxCell style="swimlane;fontStyle=1;fontSize=16;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ECECFF;strokeColor=#9370DB;swimlaneLine=1;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="980" y="80" width="200" height="100" as="geometry"/>
+          </mxCell>
+        </object>
+        <mxCell id="e_auditoria_l1" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_auditoria">
+          <mxGeometry width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_auditoria_l2" style="line;strokeColor=#9370DB;fillColor=#ECECFF;html=1;whiteSpace=wrap;" vertex="1" parent="e_auditoria">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ============ RELACIONES ============ -->
+
+        <!-- Usuario → Paciente: accede a -->
+        <mxCell id="r1" value="accede a" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_usuario" target="e_paciente" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Paciente → SignosVitales: registra -->
+        <mxCell id="r2" value="registra" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_paciente" target="e_signos" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- SignosVitales → DiagnosticoIA: solicita -->
+        <mxCell id="r3" value="solicita" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_signos" target="e_diagnostico" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- DiagnosticoIA → Triaje: clasifica en -->
+        <mxCell id="r4" value="clasifica en" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_diagnostico" target="e_triaje" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Paciente → Triaje: clasifica a -->
+        <mxCell id="r5" value="clasifica a" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;dashed=1;" edge="1" source="e_paciente" target="e_triaje" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Triaje → Notificacion: genera -->
+        <mxCell id="r6" value="genera" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_triaje" target="e_notificacion" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Notificacion → AlertaEmergencia: dispara -->
+        <mxCell id="r7" value="dispara" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_notificacion" target="e_alerta" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Medicamento → Dosis: prescribe -->
+        <mxCell id="r8" value="prescribe" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_medicamento" target="e_dosis" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Dosis → Paciente: dispensa a -->
+        <mxCell id="r9" value="dispensa a" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_dosis" target="e_paciente" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- InteraccionMedicamentosa → Medicamento: verifica -->
+        <mxCell id="r10" value="verifica" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_interaccion" target="e_medicamento" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- InsumoMedico → Paciente: consume en -->
+        <mxCell id="r11" value="consume en" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_insumo" target="e_paciente" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Paciente → Reporte: produce -->
+        <mxCell id="r12" value="produce" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_paciente" target="e_reporte" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Auditoria → Usuario: registra acceso -->
+        <mxCell id="r13" value="registra acceso" style="endArrow=block;html=1;rounded=0;strokeColor=#333333;labelBackgroundColor=#ECECFF;fontSize=13;fontStyle=2;" edge="1" source="e_auditoria" target="e_usuario" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
