@@ -16,8 +16,8 @@ milestone: ""
 
 ## Historias
 
-- [ ] HU-06 · Registrar paciente en admisión — 5 pts — Must
-- [ ] HU-09 · Registrar signos vitales — 5 pts — Must
+- [ ] HU-06 · Registrar paciente en admisión — 5 pts — Must (#6)
+- [ ] HU-09 · Registrar signos vitales — 5 pts — Must (#9)
 
 ## Fuera de alcance de esta épica
 

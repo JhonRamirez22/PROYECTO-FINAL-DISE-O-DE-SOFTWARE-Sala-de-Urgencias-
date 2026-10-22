@@ -98,6 +98,7 @@ Característica: Exportación del reporte de atenciones
 
 - **Depende de:** HU-26a (reporte en pantalla).
 - **Notas para el equipo:**
+  - Esta historia es la segunda mitad del "HU-26 Generar Reportes" original y reemplaza a la issue #26, que se cierra al publicarse esta división.
   - El backlog original decía "PDF, Excel"; RF-24 dice "CSV o PDF". Se alinea con el requisito.
   - Si más adelante se pide Excel, es un tercer serializador sin cambios en el resto.
 

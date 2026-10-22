@@ -16,8 +16,8 @@ milestone: ""
 
 ## Historias
 
-- [ ] HU-02 · Cerrar sesión de forma segura — 3 pts — Must
-- [ ] HU-03 · Crear usuario del sistema — 3 pts — Must
+- [ ] HU-02 · Cerrar sesión de forma segura — 3 pts — Must (#2)
+- [ ] HU-03 · Crear usuario del sistema — 3 pts — Must (#3)
 
 ## Fuera de alcance de esta épica
 

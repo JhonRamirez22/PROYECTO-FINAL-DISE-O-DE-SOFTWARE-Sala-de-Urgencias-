@@ -101,7 +101,7 @@ Característica: Catálogo de medicamentos
 
 - **Depende de:** nada.
 - **Notas para el equipo:**
-  - Esta historia es la mitad de lo que el backlog original llamaba "HU-12 Gestionar Medicamentos" (que mezclaba catálogo, lotes, stock y búsqueda en un solo ítem).
+  - Esta historia es la mitad de lo que el backlog original llamaba "HU-12 Gestionar Medicamentos" (que mezclaba catálogo, lotes, stock y búsqueda en un solo ítem). Reemplaza a la issue #12, que se cierra al publicarse esta división.
   - El inventario y los vencimientos van en **HU-12b**.
   - El wireframe SVG existente es `docs/wireframes/farmacia.svg` (el original apuntaba a `gestionar-medicamentos.svg`, inexistente).
 

@@ -46,32 +46,32 @@ Se conserva el número original para mantener la trazabilidad con `docs/requisit
 
 ## 3. Épicas
 
-| Épica | Nombre | Historias | Puntos |
-|---|---|---|---:|
-| **EP-01** | Seguridad y control de acceso | HU-02, HU-03 | 6 |
-| **EP-02** | Admisión y registro clínico | HU-06, HU-09 | 10 |
-| **EP-03** | Farmacia y apoyo a la decisión clínica | HU-12a, HU-12b, HU-14, HU-15 | 21 |
-| **EP-04** | Operación, seguimiento y cumplimiento | HU-24, HU-25, HU-26a, HU-26b, HU-27 | 23 |
+| Épica | Nombre | Historias | Puntos | Issue |
+|---|---|---|---:|---|
+| **EP-01** | Seguridad y control de acceso | HU-02, HU-03 | 6 | #30 |
+| **EP-02** | Admisión y registro clínico | HU-06, HU-09 | 10 | #31 |
+| **EP-03** | Farmacia y apoyo a la decisión clínica | HU-12a, HU-12b, HU-14, HU-15 | 21 | #32 |
+| **EP-04** | Operación, seguimiento y cumplimiento | HU-24, HU-25, HU-26a, HU-26b, HU-27 | 23 | #33 |
 
 ---
 
 ## 4. Historias reescritas
 
-| ID | Título | Épica | Prioridad | SP | Sprint | Depende de |
-|---|---|---|---|---:|---|---|
-| **HU-02** | Cerrar sesión de forma segura | EP-01 | Must | 3 | 1 | HU-01 |
-| **HU-03** | Crear usuario del sistema | EP-01 | Must | 3 | 1 | HU-01 |
-| **HU-06** | Registrar paciente en admisión | EP-02 | Must | 5 | 1 | HU-01 |
-| **HU-09** | Registrar signos vitales | EP-02 | Must | 5 | 2 | HU-06 |
-| **HU-12a** | Gestionar catálogo de medicamentos | EP-03 | Must | 3 | 2 | — |
-| **HU-12b** | Controlar lotes, vencimientos y stock | EP-03 | Should | 5 | 2 | HU-12a |
-| **HU-14** | Verificar interacciones medicamentosas | EP-03 | Should | 5 | 2 | HU-12a, HU-13 |
-| **HU-15** | Obtener diagnóstico asistido por IA | EP-03 | Should | 8 | 2 | HU-06, HU-09 |
-| **HU-24** | Consultar estado de atención | EP-04 | Should | 5 | 3 | HU-06, HU-17 |
-| **HU-25** | Ver tablero operativo del servicio | EP-04 | Should | 5 | 3 | HU-06, HU-09 |
-| **HU-26a** | Consultar reporte de atenciones | EP-04 | Should | 5 | 3 | HU-06, HU-09 |
-| **HU-26b** | Exportar reporte de atenciones | EP-04 | Should | 3 | 3 | HU-26a |
-| **HU-27** | Consultar auditoría de accesos | EP-04 | Should | 5 | 3 | HU-01 |
+| ID | Título | Épica | Prioridad | SP | Sprint | Depende de | Issue |
+|---|---|---|---|---:|---|---|---|
+| **HU-02** | Cerrar sesión de forma segura | EP-01 | Must | 3 | 1 | HU-01 | #2 |
+| **HU-03** | Crear usuario del sistema | EP-01 | Must | 3 | 1 | HU-01 | #3 |
+| **HU-06** | Registrar paciente en admisión | EP-02 | Must | 5 | 1 | HU-01 | #6 |
+| **HU-09** | Registrar signos vitales | EP-02 | Must | 5 | 2 | HU-06 | #9 |
+| **HU-12a** | Gestionar catálogo de medicamentos | EP-03 | Must | 3 | 2 | — | #34 |
+| **HU-12b** | Controlar lotes, vencimientos y stock | EP-03 | Should | 5 | 2 | HU-12a | #35 |
+| **HU-14** | Verificar interacciones medicamentosas | EP-03 | Should | 5 | 2 | HU-12a, HU-13 | #14 |
+| **HU-15** | Obtener diagnóstico asistido por IA | EP-03 | Should | 8 | 2 | HU-06, HU-09 | #15 |
+| **HU-24** | Consultar estado de atención | EP-04 | Should | 5 | 3 | HU-06, HU-17 | #24 |
+| **HU-25** | Ver tablero operativo del servicio | EP-04 | Should | 5 | 3 | HU-06, HU-09 | #25 |
+| **HU-26a** | Consultar reporte de atenciones | EP-04 | Should | 5 | 3 | HU-06, HU-09 | #36 |
+| **HU-26b** | Exportar reporte de atenciones | EP-04 | Should | 3 | 3 | HU-26a | #37 |
+| **HU-27** | Consultar auditoría de accesos | EP-04 | Should | 5 | 3 | HU-01 | #27 |
 
 **Total: 60 puntos.**
 

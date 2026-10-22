@@ -100,7 +100,7 @@ Característica: Reporte de atenciones por período
 
 - **Depende de:** HU-06 (atenciones registradas), HU-09 y del registro de diagnósticos (HU-16/HU-20).
 - **Notas para el equipo:**
-  - Esta historia es la mitad consultiva del "HU-26 Generar Reportes" original; la exportación está en **HU-26b**.
+  - Esta historia es la mitad consultiva del "HU-26 Generar Reportes" original; la exportación está en **HU-26b**. Reemplaza a la issue #26, que se cierra al publicarse esta división.
   - Se retiraron los tipos "diario, semanal, mensual": son el mismo reporte con distinto rango.
   - Se retiró "por médico" y "departamento" porque no existen esas entidades (supuesto S-5).
   - El wireframe SVG existente es `docs/wireframes/generar-reportes.svg`.

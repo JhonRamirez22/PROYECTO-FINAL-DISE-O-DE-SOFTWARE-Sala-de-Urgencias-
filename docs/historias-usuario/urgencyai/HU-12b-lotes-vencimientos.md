@@ -111,7 +111,7 @@ Característica: Control de lotes, vencimientos y stock
 
 - **Depende de:** HU-12a (catálogo de medicamentos).
 - **Notas para el equipo:**
-  - Esta historia es la segunda mitad del "HU-12" original.
+  - Esta historia es la segunda mitad del "HU-12" original. Reemplaza a la issue #12, que se cierra al publicarse esta división.
   - La **respuesta** a las alertas de stock (pedido, transferencia, resolución) es RF-16 y **no tiene historia**: queda como pendiente del backlog.
   - El wireframe SVG existente es `docs/wireframes/farmacia.svg`.
 

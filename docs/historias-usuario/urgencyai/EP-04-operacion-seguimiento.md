@@ -16,11 +16,11 @@ milestone: ""
 
 ## Historias
 
-- [ ] HU-24 · Consultar estado de atención — 5 pts — Should
-- [ ] HU-25 · Ver tablero operativo del servicio — 5 pts — Should
-- [ ] HU-26a · Consultar reporte de atenciones — 5 pts — Should
-- [ ] HU-26b · Exportar reporte de atenciones — 3 pts — Should
-- [ ] HU-27 · Consultar auditoría de accesos — 5 pts — Should
+- [ ] HU-24 · Consultar estado de atención — 5 pts — Should (#24)
+- [ ] HU-25 · Ver tablero operativo del servicio — 5 pts — Should (#25)
+- [ ] HU-26a · Consultar reporte de atenciones — 5 pts — Should (#36)
+- [ ] HU-26b · Exportar reporte de atenciones — 3 pts — Should (#37)
+- [ ] HU-27 · Consultar auditoría de accesos — 5 pts — Should (#27)
 
 ## Fuera de alcance de esta épica
 
