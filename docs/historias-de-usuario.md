@@ -1,5 +1,10 @@
 # Historias de Usuario - UrgencyAI
 
+> **Estado del documento.** Las 11 historias que la auditoría del backlog marcó en rojo se
+> reescribieron y se publicaron como issues. Su versión vigente es la de
+> [`docs/historias-usuario/urgencyai/INDICE.md`](historias-usuario/urgencyai/INDICE.md), no la de
+> este archivo. Las historias que no se reescribieron siguen vigentes aquí.
+
 ## Sprint 1: Fundamentos (Semanas 1-3)
 
 ### Epic: Autenticación y Seguridad
