@@ -3,7 +3,7 @@ id: HU-22
 titulo: 'HU-22 "Activar Alerta de Emergencia"'
 tipo: historia
 epica: EP-04
-etiquetas: [HU, Sprint-3, Alertas]
+etiquetas: [HU, Sprint-3, Alertas, historia-usuario, prioridad:alta, sp:3]
 milestone: ""
 ---
 

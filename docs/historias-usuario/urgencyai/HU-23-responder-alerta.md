@@ -3,7 +3,7 @@ id: HU-23
 titulo: 'HU-23 "Responder a Alerta"'
 tipo: historia
 epica: EP-04
-etiquetas: [HU, Sprint-3, Alertas]
+etiquetas: [HU, Sprint-3, Alertas, historia-usuario, prioridad:alta, sp:5]
 milestone: ""
 ---
 

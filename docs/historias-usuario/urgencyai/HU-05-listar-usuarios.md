@@ -3,7 +3,7 @@ id: HU-05
 titulo: 'HU-05 "Listar/Buscar Usuarios"'
 tipo: historia
 epica: EP-01
-etiquetas: [HU, Sprint-1, Gestión-Usuarios]
+etiquetas: [HU, Sprint-1, Gestión-Usuarios, historia-usuario, prioridad:media, sp:3]
 milestone: ""
 ---
 

@@ -3,7 +3,7 @@ id: HU-21
 titulo: 'HU-21 "Gestionar Insumos Médicos"'
 tipo: historia
 epica: EP-04
-etiquetas: [HU, Sprint-3, Insumos]
+etiquetas: [HU, Sprint-3, Insumos, historia-usuario, prioridad:baja, sp:5]
 milestone: ""
 ---
 

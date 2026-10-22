@@ -3,7 +3,7 @@ id: HU-07
 titulo: 'HU-07 "Buscar Paciente"'
 tipo: historia
 epica: EP-02
-etiquetas: [HU, Sprint-1, Gestión-Pacientes]
+etiquetas: [HU, Sprint-1, Gestión-Pacientes, historia-usuario, prioridad:alta, sp:3]
 milestone: ""
 ---
 

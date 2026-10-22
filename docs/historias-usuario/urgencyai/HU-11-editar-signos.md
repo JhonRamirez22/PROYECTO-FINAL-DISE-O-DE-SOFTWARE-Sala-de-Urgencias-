@@ -3,7 +3,7 @@ id: HU-11
 titulo: 'HU-11 "Editar Signos Vitales"'
 tipo: historia
 epica: EP-02
-etiquetas: [HU, Sprint-2, Signos-Vitales]
+etiquetas: [HU, Sprint-2, Signos-Vitales, historia-usuario, prioridad:media, sp:3]
 milestone: ""
 ---
 

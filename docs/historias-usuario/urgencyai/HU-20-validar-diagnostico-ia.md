@@ -3,7 +3,7 @@ id: HU-20
 titulo: 'HU-20 "Validar Diagnóstico IA"'
 tipo: historia
 epica: EP-03
-etiquetas: [HU, Sprint-3, Validación-IA]
+etiquetas: [HU, Sprint-3, Validación-IA, historia-usuario, prioridad:media, sp:3]
 milestone: ""
 ---
 

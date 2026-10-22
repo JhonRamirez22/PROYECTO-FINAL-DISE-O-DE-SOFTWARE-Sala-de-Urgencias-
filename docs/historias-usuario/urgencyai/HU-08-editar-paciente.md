@@ -3,7 +3,7 @@ id: HU-08
 titulo: 'HU-08 "Editar Datos del Paciente"'
 tipo: historia
 epica: EP-02
-etiquetas: [HU, Sprint-1, Gestión-Pacientes]
+etiquetas: [HU, Sprint-1, Gestión-Pacientes, historia-usuario, prioridad:media, sp:3]
 milestone: ""
 ---
 
