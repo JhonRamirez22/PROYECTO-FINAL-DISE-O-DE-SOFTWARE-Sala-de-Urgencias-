@@ -23,9 +23,10 @@ milestone: ""
 - [ ] HU-23 · Responder a alerta — 5 pts — Must (#23)
 - [ ] HU-24 · Consultar estado de paciente — 5 pts — Should (#24)
 - [ ] HU-25 · Ver dashboard principal — 5 pts — Should (#25)
-- [ ] HU-26a · Consultar reporte de atenciones — 5 pts — Should (#36)
-- [ ] HU-26b · Exportar reporte de atenciones — 3 pts — Could (#37)
+- [ ] HU-26 · Generar reportes — 8 pts — Should (#26)
 - [ ] HU-27 · Auditoría de accesos — 5 pts — Should (#27)
+
+**Total: 44 puntos en 9 historias.**
 
 ## Fuera de alcance de esta épica
 

@@ -28,7 +28,7 @@ milestone: ""
 
 | Criterio | Cumple | Justificación |
 |----------|:------:|---------------|
-| **Independent** | Sí | Requiere catálogo (HU-12a) y dispensación (HU-13) |
+| **Independent** | Sí | Requiere catálogo (HU-12) y dispensación (HU-13) |
 | **Negotiable** | Sí | El catálogo de pares y sus severidades son datos, no código |
 | **Valuable** | Sí | Es la salvaguarda clínica de la dispensación |
 | **Estimable** | Sí | Tres comportamientos definidos y un registro de decisión |

@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="812" viewBox="0 0 960 812" role="img">
+<rect width="960" height="812" fill="#FFFFFF"/>
+<text x="32" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#1F1F1F">HU-12 · Gestionar medicamentos</text>
+<text x="924" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Wireframe de baja fidelidad</text>
+<rect x="32" y="52" width="856" height="44" rx="2" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="48" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F1F1F">UrgencyAI</text>
+<text x="122" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#5F6368">· Farmacia · Medicamentos</text>
+<text x="872" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Rosa Vega · Farmacéutica</text>
+<rect x="32" y="112" width="856" height="250" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="112" width="856" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<rect x="32" y="112" width="856" height="250" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="44" y="132" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Catálogo de medicamentos</text>
+<text x="48" y="158" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Buscar por nombre o principio activo</text>
+<rect x="48" y="164" width="320" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="58" y="183.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">acetaminofen</text>
+<rect x="744" y="164" width="128" height="30" rx="2" fill="#1F1F1F" stroke="#1F1F1F" stroke-width="1"/>
+<text x="808.0" y="183.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Nuevo medicamento</text>
+<rect x="48" y="206" width="824" height="26" rx="1" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="56" y="223" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Medicamento</text>
+<text x="240" y="223" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Principio activo</text>
+<text x="430" y="223" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Concentración</text>
+<text x="560" y="223" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Forma</text>
+<text x="660" y="223" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Stock</text>
+<text x="770" y="223" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Estado</text>
+<line x1="48" y1="266" x2="872" y2="266" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="253" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Paracetamol</text>
+<text x="240" y="253" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Acetaminofén</text>
+<text x="430" y="253" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">500 mg</text>
+<text x="560" y="253" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Tableta</text>
+<text x="660" y="253" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">120</text>
+<text x="770" y="253" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Activo</text>
+<rect x="48" y="266" width="824" height="34" rx="2" fill="#FAFAFA" stroke="none" stroke-width="1"/>
+<line x1="48" y1="300" x2="872" y2="300" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="287" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Ibuprofeno</text>
+<text x="240" y="287" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Ibuprofeno</text>
+<text x="430" y="287" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">400 mg</text>
+<text x="560" y="287" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Tableta</text>
+<text x="660" y="287" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">0</text>
+<text x="770" y="287" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Activo</text>
+<line x1="48" y1="334" x2="872" y2="334" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="321" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#5F6368">Tramadol</text>
+<text x="240" y="321" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#5F6368">Tramadol</text>
+<text x="430" y="321" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#5F6368">50 mg</text>
+<text x="560" y="321" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#5F6368">Tableta</text>
+<text x="660" y="321" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#5F6368">12</text>
+<text x="770" y="321" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#5F6368">Inactivo</text>
+<rect x="32" y="380" width="856" height="232" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="380" width="856" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<rect x="32" y="380" width="856" height="232" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="44" y="400" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Lotes y vencimientos · Paracetamol 500 mg</text>
+<text x="872" y="400" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">70 unidades · mínimo 10</text>
+<rect x="48" y="422" width="824" height="26" rx="1" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="56" y="439" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Lote</text>
+<text x="180" y="439" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Vencimiento</text>
+<text x="330" y="439" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Unidades</text>
+<text x="420" y="439" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Estado</text>
+<text x="620" y="439" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Observación</text>
+<line x1="48" y1="482" x2="872" y2="482" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="481" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">L-2026-071</text>
+<text x="180" y="481" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">31/01/2027</text>
+<text x="330" y="481" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">20</text>
+<text x="420" y="481" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Disponible</text>
+<text x="620" y="481" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Sale primero</text>
+<rect x="48" y="482" width="824" height="34" rx="2" fill="#FAFAFA" stroke="none" stroke-width="1"/>
+<line x1="48" y1="516" x2="872" y2="516" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="515" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">L-2026-118</text>
+<text x="180" y="515" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">30/06/2028</text>
+<text x="330" y="515" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">50</text>
+<text x="420" y="515" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Disponible</text>
+<text x="620" y="515" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368"></text>
+<line x1="48" y1="550" x2="872" y2="550" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="549" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#5F6368">L-2025-004</text>
+<text x="180" y="549" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#5F6368">31/12/2025</text>
+<text x="330" y="549" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#5F6368">8</text>
+<text x="420" y="549" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#5F6368">Vencido</text>
+<text x="620" y="549" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">No dispensable</text>
+<rect x="48" y="562" width="130" height="32" rx="2" fill="#1F1F1F" stroke="#1F1F1F" stroke-width="1"/>
+<text x="113.0" y="582.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Recibir lote</text>
+<rect x="190" y="562" width="160" height="32" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="270.0" y="582.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1F1F1F">Ajustar inventario</text>
+<rect x="32" y="630" width="856" height="136" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="630" width="856" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<rect x="32" y="630" width="856" height="136" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="44" y="650" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Alertas de stock</text>
+<rect x="48" y="670" width="4" height="30" rx="2" fill="#5F6368" stroke="none" stroke-width="1"/>
+<text x="64" y="683" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Ibuprofeno 400 mg</text>
+<text x="64" y="699" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">9 de 10 mínimo · hace 2 minutos</text>
+<rect x="48" y="716" width="4" height="30" rx="2" fill="#5F6368" stroke="none" stroke-width="1"/>
+<text x="64" y="729" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Omeprazol 20 mg</text>
+<text x="64" y="745" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">3 de 10 mínimo · hace 1 hora</text>
+<text x="32" y="790" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">Salida FEFO: se dispensa primero el lote que vence antes; un lote vencido nunca se dispensa.</text>
+<circle cx="916" cy="179" r="9" fill="#1F1F1F"/>
+<text x="916" y="183" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">1</text>
+<circle cx="384" cy="179" r="9" fill="#1F1F1F"/>
+<text x="384" y="183" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">2</text>
+<circle cx="916" cy="317" r="9" fill="#1F1F1F"/>
+<text x="916" y="321" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">3</text>
+<circle cx="916" cy="402" r="9" fill="#1F1F1F"/>
+<text x="916" y="406" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">4</text>
+<circle cx="916" cy="465" r="9" fill="#1F1F1F"/>
+<text x="916" y="469" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">5</text>
+<circle cx="916" cy="533" r="9" fill="#1F1F1F"/>
+<text x="916" y="537" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">6</text>
+<circle cx="916" cy="578" r="9" fill="#1F1F1F"/>
+<text x="916" y="582" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">7</text>
+<circle cx="916" cy="690" r="9" fill="#1F1F1F"/>
+<text x="916" y="694" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">8</text>
+</svg>

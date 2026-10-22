@@ -2,9 +2,9 @@
 
 **Sistema:** UrgencyAI · gestión de sala de urgencias
 **Repositorio destino:** `JhonRamirez22/PROYECTO-FINAL-DISE-O-DE-SOFTWARE-Sala-de-Urgencias-`
-**Alcance de esta entrega:** reescritura de las 11 historias marcadas como rojas en la auditoría del backlog y unificación de las **29 historias** en un mismo formato, cada una con su mockup anotado.
-**Resultado:** 11 historias originales → **13 reescritas** (2 divisiones por INVEST) + **16 historias que ya existían** sin reescribir + 4 épicas = **29 historias**.
-**Puntos totales de las 13 reescritas:** 60.
+**Alcance de esta entrega:** reescritura de las 11 historias marcadas como rojas en la auditoría del backlog y unificación de las **27 historias** en un mismo formato, cada una con su mockup anotado.
+**Resultado:** 11 historias reescritas + **16 historias que ya existían** sin reescribir + 4 épicas = **27 historias**.
+**Puntos totales de las 11 reescritas:** 60.
 
 ---
 
@@ -36,11 +36,11 @@ Estas decisiones no estaban resueltas en el repositorio. Se toman como ingeniero
 | **S-5** | Los reportes **no filtran por médico ni por departamento**; filtran por rango de fechas y nivel de triaje. | No existe asignación paciente→médico ni catálogo de departamentos. Se evita un reporte que no se puede calcular. | Ajustar RF-23. |
 | **S-6** | Los rangos clínicos de HU-09 son los de **adulto**; pediatría queda fuera del MVP. | Los rangos pediátricos dependen de edad y peso y duplican el alcance. | Restricción explícita en el RF-09. |
 | **S-7** | HU-14 verifica interacciones **en la dispensación** (HU-13), no en la prescripción. | No existe historia de prescripción; anclar la verificación a la dispensación la hace implementable hoy. | Renombrar RF-13 a "verificar al dispensar". |
-| **S-8** | La exportación es **CSV y PDF**. Se descarta Excel. | RF-24 dice CSV o PDF; HU-26 decía Excel. Se alinea con el requisito. | HU-26b. |
+| **S-8** | La exportación es **CSV y PDF**. Se descarta Excel. | RF-24 dice CSV o PDF; HU-26 decía Excel. Se alinea con el requisito. | HU-26. |
 
 ### Sobre los identificadores
 
-Se conserva el número original para mantener la trazabilidad con `docs/requisitos.md`. Cuando una historia se divide por INVEST, las partes se nombran con letra: **HU-12a / HU-12b** y **HU-26a / HU-26b**. No se renumeran las demás.
+Se conserva el número original para mantener la trazabilidad con `docs/requisitos.md` y no se renumeran las historias: el backlog queda en **HU-01 a HU-27**, sin sufijos ni prefijos. Las dos historias que la auditoría recomendaba dividir —HU-12 y HU-26— se publican enteras, con un criterio de aceptación por cada comportamiento y el análisis INVEST completo, que es donde consta el costo de su tamaño.
 
 ---
 
@@ -50,10 +50,10 @@ Se conserva el número original para mantener la trazabilidad con `docs/requisit
 |---|---|---|---:|---|
 | **EP-01** | Seguridad y control de acceso | HU-01, HU-02, HU-03, HU-04, HU-05 | 15 | #30 |
 | **EP-02** | Admisión y registro clínico | HU-06, HU-07, HU-08, HU-09, HU-10, HU-11, HU-17 | 29 | #31 |
-| **EP-03** | Farmacia y apoyo a la decisión clínica | HU-12a, HU-12b, HU-13, HU-14, HU-15, HU-16, HU-20 | 32 | #32 |
-| **EP-04** | Operación, seguimiento y cumplimiento | HU-18, HU-19, HU-21, HU-22, HU-23, HU-24, HU-25, HU-26a, HU-26b, HU-27 | 44 | #33 |
+| **EP-03** | Farmacia y apoyo a la decisión clínica | HU-12, HU-13, HU-14, HU-15, HU-16, HU-20 | 32 | #32 |
+| **EP-04** | Operación, seguimiento y cumplimiento | HU-18, HU-19, HU-21, HU-22, HU-23, HU-24, HU-25, HU-26, HU-27 | 44 | #33 |
 
-**Total del backlog: 120 puntos en 29 historias.** La sección 4 detalla solo las 13 reescritas, que suman 60 puntos.
+**Total del backlog: 120 puntos en 27 historias.** La sección 4 detalla solo las 11 reescritas, que suman 60 puntos.
 
 ---
 
@@ -65,14 +65,12 @@ Se conserva el número original para mantener la trazabilidad con `docs/requisit
 | **HU-03** | Crear usuario del sistema | EP-01 | Must | 3 | 1 | HU-01 | #3 |
 | **HU-06** | Registrar paciente en admisión | EP-02 | Must | 5 | 1 | HU-01 | #6 |
 | **HU-09** | Registrar signos vitales | EP-02 | Must | 5 | 2 | HU-06 | #9 |
-| **HU-12a** | Gestionar catálogo de medicamentos | EP-03 | Must | 3 | 2 | — | #34 |
-| **HU-12b** | Controlar lotes, vencimientos y stock | EP-03 | Should | 5 | 2 | HU-12a | #35 |
-| **HU-14** | Verificar interacciones medicamentosas | EP-03 | Should | 5 | 2 | HU-12a, HU-13 | #14 |
+| **HU-12** | Gestionar medicamentos | EP-03 | Must | 8 | 2 | — | #12 |
+| **HU-14** | Verificar interacciones medicamentosas | EP-03 | Should | 5 | 2 | HU-12, HU-13 | #14 |
 | **HU-15** | Obtener diagnóstico asistido por IA | EP-03 | Should | 8 | 2 | HU-06, HU-09 | #15 |
 | **HU-24** | Consultar estado de atención | EP-04 | Should | 5 | 3 | HU-06, HU-17 | #24 |
 | **HU-25** | Ver tablero operativo del servicio | EP-04 | Should | 5 | 3 | HU-06, HU-09 | #25 |
-| **HU-26a** | Consultar reporte de atenciones | EP-04 | Should | 5 | 3 | HU-06, HU-09 | #36 |
-| **HU-26b** | Exportar reporte de atenciones | EP-04 | Should | 3 | 3 | HU-26a | #37 |
+| **HU-26** | Generar reportes | EP-04 | Should | 8 | 3 | HU-06, HU-09 | #26 |
 | **HU-27** | Consultar auditoría de accesos | EP-04 | Should | 5 | 3 | HU-01 | #27 |
 
 **Total: 60 puntos.**
@@ -85,13 +83,13 @@ Las **16 historias restantes** — HU-01, HU-04, HU-05, HU-07, HU-08, HU-10, HU-
 
 Las 16 historias que no se reescribieron conservan el sprint que ya tenían asignado en el backlog original.
 
-**MVP (Must) — 19 puntos, 5 historias:**
-HU-02 → HU-03 → HU-06 → HU-09 → HU-12a
+**MVP (Must) — 24 puntos, 5 historias:**
+HU-02 → HU-03 → HU-06 → HU-09 → HU-12
 
-Con estas cinco el servicio funciona de punta a punta: el personal entra, admisión registra al paciente, enfermería documenta su estado y farmacia tiene catálogo. Es demoable.
+Con estas cinco el servicio funciona de punta a punta: el personal entra, admisión registra al paciente, enfermería documenta su estado y farmacia tiene catálogo e inventario. Es demoable.
 
-**Segunda ola (Should) — 41 puntos, 8 historias:**
-HU-12b → HU-14 → HU-26a → HU-26b → HU-25 → HU-24 → HU-27 → HU-15
+**Segunda ola (Should) — 36 puntos, 6 historias:**
+HU-14 → HU-26 → HU-25 → HU-24 → HU-27 → HU-15
 
 La IA va al final a propósito: es la historia de mayor riesgo técnico y menor valor incremental — el sistema sirve sin ella.
 
@@ -99,7 +97,7 @@ La IA va al final a propósito: es la historia de mayor riesgo técnico y menor 
 
 ## 6. Mockups
 
-Cada una de las 29 historias incluye un mockup de baja fidelidad en SVG, monocromático y anotado con números. Los archivos viven en `docs/historias-usuario/urgencyai/wireframes/` y la leyenda numerada de cada uno está al pie de su historia en `docs/historias-usuario/urgencyai/` y en la issue correspondiente:
+Cada una de las 27 historias incluye un mockup de baja fidelidad en SVG, monocromático y anotado con números. Los archivos viven en `docs/historias-usuario/urgencyai/wireframes/` y la leyenda numerada de cada uno está al pie de su historia en `docs/historias-usuario/urgencyai/` y en la issue correspondiente:
 
 | Historia | Archivo |
 |---|---|
@@ -114,8 +112,7 @@ Cada una de las 29 historias incluye un mockup de baja fidelidad en SVG, monocro
 | HU-09 | `wireframes/HU-09-registrar-signos-vitales.svg` |
 | HU-10 | `wireframes/HU-10-visualizar-signos.svg` |
 | HU-11 | `wireframes/HU-11-editar-signos.svg` |
-| HU-12a | `wireframes/HU-12a-catalogo-medicamentos.svg` |
-| HU-12b | `wireframes/HU-12b-lotes-vencimientos.svg` |
+| HU-12 | `wireframes/HU-12-gestionar-medicamentos.svg` |
 | HU-13 | `wireframes/HU-13-registrar-dosis.svg` |
 | HU-14 | `wireframes/HU-14-verificar-interacciones.svg` |
 | HU-15 | `wireframes/HU-15-diagnostico-ia.svg` |
@@ -129,8 +126,7 @@ Cada una de las 29 historias incluye un mockup de baja fidelidad en SVG, monocro
 | HU-23 | `wireframes/HU-23-responder-alerta.svg` |
 | HU-24 | `wireframes/HU-24-consultar-estado-atencion.svg` |
 | HU-25 | `wireframes/HU-25-tablero-operativo.svg` |
-| HU-26a | `wireframes/HU-26a-reporte-atenciones.svg` |
-| HU-26b | `wireframes/HU-26b-exportar-reporte.svg` |
+| HU-26 | `wireframes/HU-26-generar-reportes.svg` |
 | HU-27 | `wireframes/HU-27-auditoria-accesos.svg` |
 
 Los mockups son de baja fidelidad a propósito: muestran jerarquía, campos, estados y acciones, no la identidad visual del producto.
@@ -148,12 +144,12 @@ Los mockups son de baja fidelidad a propósito: muestran jerarquía, campos, est
 | HU-06 sin seguro médico, sin caso de cédula duplicada | RF-06 completo + reutilización de ficha + paciente sin documento |
 | HU-09 sin rangos clínicos, "pulso" en vez de FC | Tabla de rangos aceptables y críticos; se corrige el campo |
 | HU-09 dependía de "turno" (inexistente) | Se asocia a la **atención abierta**, que sí existe |
-| HU-12 era un módulo de 4 funcionalidades | Se divide en catálogo (12a) y lotes/stock (12b), con FEFO |
+| HU-12 era un módulo de 4 funcionalidades | Una sola historia con catálogo e inventario por lotes (FEFO); el tamaño se declara en el INVEST |
 | HU-14 decía "cuando sea posible" | Catálogo local con 4 severidades y comportamiento por severidad |
 | HU-15 enviaba alergias e historial inexistentes; 10 s vs RNF-08 | Solo síntomas + signos vitales; 5 s; anonimización de PII |
 | HU-24 con actor fuera del modelo y sin límites | Consulta pública con código, lista blanca y rate limit |
 | HU-25 con áreas y altas inexistentes | Métricas calculables; ocupación por área fuera del MVP |
-| HU-26 con Excel, "por médico" y "departamento" | Se divide en consulta (26a) y exportación CSV/PDF (26b) |
+| HU-26 con Excel, "por médico" y "departamento" | Una sola historia: consulta por rango de fechas y exportación CSV/PDF |
 | HU-27 con retención y horarios sin modelo | Jornada institucional configurable; retención pasa a RNF |
 
 ---
