@@ -2,7 +2,6 @@
 id: HU-18
 titulo: 'HU-18 "Recibir Notificación de Emergencia"'
 tipo: historia
-epica: EP-04
 etiquetas: [HU, Sprint-3, Notificaciones, historia-usuario, prioridad:alta, sp:5]
 milestone: ""
 ---

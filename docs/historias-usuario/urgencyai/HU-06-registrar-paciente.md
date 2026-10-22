@@ -2,7 +2,6 @@
 id: HU-06
 titulo: 'HU-06 "Registrar Paciente"'
 tipo: historia
-epica: EP-02
 etiquetas: [HU, Sprint-1, Gestión-Pacientes, historia-usuario, prioridad:alta, sp:5]
 milestone: ""
 ---

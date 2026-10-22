@@ -3,7 +3,7 @@
 **Sistema:** UrgencyAI · gestión de sala de urgencias
 **Repositorio destino:** `JhonRamirez22/PROYECTO-FINAL-DISE-O-DE-SOFTWARE-Sala-de-Urgencias-`
 **Alcance de esta entrega:** reescritura de las 11 historias marcadas como rojas en la auditoría del backlog y unificación de las **27 historias** en un mismo formato, cada una con su mockup anotado.
-**Resultado:** 11 historias reescritas + **16 historias que ya existían** sin reescribir + 4 épicas = **27 historias**.
+**Resultado:** 11 historias reescritas + **16 historias que ya existían** sin reescribir = **27 historias**.
 **Puntos totales de las 11 reescritas:** 60.
 
 ---
@@ -44,42 +44,29 @@ Se conserva el número original para mantener la trazabilidad con `docs/requisit
 
 ---
 
-## 3. Épicas
+## 3. Historias reescritas
 
-| Épica | Nombre | Historias | Puntos | Issue |
-|---|---|---|---:|---|
-| **EP-01** | Seguridad y control de acceso | HU-01, HU-02, HU-03, HU-04, HU-05 | 15 | #30 |
-| **EP-02** | Admisión y registro clínico | HU-06, HU-07, HU-08, HU-09, HU-10, HU-11, HU-17 | 29 | #31 |
-| **EP-03** | Farmacia y apoyo a la decisión clínica | HU-12, HU-13, HU-14, HU-15, HU-16, HU-20 | 32 | #32 |
-| **EP-04** | Operación, seguimiento y cumplimiento | HU-18, HU-19, HU-21, HU-22, HU-23, HU-24, HU-25, HU-26, HU-27 | 44 | #38 |
+| ID | Título | Prioridad | SP | Sprint | Depende de | Issue |
+|---|---|---|---:|---|---|---|
+| **HU-02** | Cerrar sesión de forma segura | Must | 3 | 1 | HU-01 | #2 |
+| **HU-03** | Crear usuario del sistema | Must | 3 | 1 | HU-01 | #3 |
+| **HU-06** | Registrar paciente en admisión | Must | 5 | 1 | HU-01 | #6 |
+| **HU-09** | Registrar signos vitales | Must | 5 | 2 | HU-06 | #9 |
+| **HU-12** | Gestionar medicamentos | Must | 8 | 2 | — | #12 |
+| **HU-14** | Verificar interacciones medicamentosas | Should | 5 | 2 | HU-12, HU-13 | #14 |
+| **HU-15** | Obtener diagnóstico asistido por IA | Should | 8 | 2 | HU-06, HU-09 | #15 |
+| **HU-24** | Consultar estado de atención | Should | 5 | 3 | HU-06, HU-17 | #24 |
+| **HU-25** | Ver tablero operativo del servicio | Should | 5 | 3 | HU-06, HU-09 | #25 |
+| **HU-26** | Generar reportes | Should | 8 | 3 | HU-06, HU-09 | #26 |
+| **HU-27** | Consultar auditoría de accesos | Should | 5 | 3 | HU-01 | #27 |
 
-**Total del backlog: 120 puntos en 27 historias.** La sección 4 detalla solo las 11 reescritas, que suman 60 puntos.
-
----
-
-## 4. Historias reescritas
-
-| ID | Título | Épica | Prioridad | SP | Sprint | Depende de | Issue |
-|---|---|---|---|---:|---|---|---|
-| **HU-02** | Cerrar sesión de forma segura | EP-01 | Must | 3 | 1 | HU-01 | #2 |
-| **HU-03** | Crear usuario del sistema | EP-01 | Must | 3 | 1 | HU-01 | #3 |
-| **HU-06** | Registrar paciente en admisión | EP-02 | Must | 5 | 1 | HU-01 | #6 |
-| **HU-09** | Registrar signos vitales | EP-02 | Must | 5 | 2 | HU-06 | #9 |
-| **HU-12** | Gestionar medicamentos | EP-03 | Must | 8 | 2 | — | #12 |
-| **HU-14** | Verificar interacciones medicamentosas | EP-03 | Should | 5 | 2 | HU-12, HU-13 | #14 |
-| **HU-15** | Obtener diagnóstico asistido por IA | EP-03 | Should | 8 | 2 | HU-06, HU-09 | #15 |
-| **HU-24** | Consultar estado de atención | EP-04 | Should | 5 | 3 | HU-06, HU-17 | #24 |
-| **HU-25** | Ver tablero operativo del servicio | EP-04 | Should | 5 | 3 | HU-06, HU-09 | #25 |
-| **HU-26** | Generar reportes | EP-04 | Should | 8 | 3 | HU-06, HU-09 | #26 |
-| **HU-27** | Consultar auditoría de accesos | EP-04 | Should | 5 | 3 | HU-01 | #27 |
-
-**Total: 60 puntos.**
+**Total del backlog: 120 puntos en 27 historias.** De ellos, 60 corresponden a las 11 reescritas de la tabla anterior.
 
 Las **16 historias restantes** — HU-01, HU-04, HU-05, HU-07, HU-08, HU-10, HU-11, HU-13, HU-16, HU-17, HU-18, HU-19, HU-20, HU-21, HU-22 y HU-23 — conservan su redacción original. Se les unificó el formato y se les reemplazó el mockup por uno del mismo estilo anotado; no se reescribió su contenido.
 
 ---
 
-## 5. Orden de release de las historias reescritas
+## 4. Orden de release de las historias reescritas
 
 Las 16 historias que no se reescribieron conservan el sprint que ya tenían asignado en el backlog original.
 
@@ -95,7 +82,7 @@ La IA va al final a propósito: es la historia de mayor riesgo técnico y menor 
 
 ---
 
-## 6. Mockups
+## 5. Mockups
 
 Cada una de las 27 historias incluye un mockup de baja fidelidad en SVG, monocromático y anotado con números. Los archivos viven en `docs/historias-usuario/urgencyai/wireframes/` y la leyenda numerada de cada uno está al pie de su historia en `docs/historias-usuario/urgencyai/` y en la issue correspondiente:
 
@@ -135,7 +122,7 @@ Los mockups son de baja fidelidad a propósito: muestran jerarquía, campos, est
 
 ---
 
-## 7. Qué cambió respecto del backlog original
+## 6. Qué cambió respecto del backlog original
 
 | Problema detectado en la auditoría | Cómo se resolvió |
 |---|---|
@@ -154,10 +141,10 @@ Los mockups son de baja fidelidad a propósito: muestran jerarquía, campos, est
 
 ---
 
-## 8. Pendientes que este documento no cubre
+## 7. Pendientes que este documento no cubre
 
 - **HU-28** sigue sin issue: debe convertirse en RNF o publicarse.
 - **Prescripción médica y alta del paciente** siguen sin historia. Son las dos ausencias más graves del backlog y bloquean parcialmente a HU-14 y HU-24.
-- **Los 20 RNF no tienen issues**: se recomienda una épica técnica aparte o excluirlos formalmente del alcance.
+- **Los 20 RNF no tienen issues**: se recomienda agruparlos en un documento técnico aparte o excluirlos formalmente del alcance.
 - **Milestones**: el repositorio no tiene ninguno creado. Antes de publicar, crear `Sprint 1`, `Sprint 2` y `Sprint 3`, o dejar el campo vacío.
 - **README y `docs/`** deben actualizarse con esta nueva redacción para que la fuente de verdad no se vuelva a partir.

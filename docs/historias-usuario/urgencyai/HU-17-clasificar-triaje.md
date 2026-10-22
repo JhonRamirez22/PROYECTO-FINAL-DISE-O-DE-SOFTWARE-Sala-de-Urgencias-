@@ -2,7 +2,6 @@
 id: HU-17
 titulo: 'HU-17 "Clasificar por Triaje"'
 tipo: historia
-epica: EP-02
 etiquetas: [HU, Sprint-3, Triaje, historia-usuario, prioridad:alta, sp:5]
 milestone: ""
 ---

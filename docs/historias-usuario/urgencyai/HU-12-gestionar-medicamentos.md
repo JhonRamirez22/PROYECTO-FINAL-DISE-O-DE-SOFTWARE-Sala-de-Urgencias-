@@ -2,7 +2,6 @@
 id: HU-12
 titulo: 'HU-12 "Gestionar Medicamentos"'
 tipo: historia
-epica: EP-03
 etiquetas: [HU, Sprint-2, Farmacología, historia-usuario, prioridad:alta, sp:8]
 milestone: ""
 ---

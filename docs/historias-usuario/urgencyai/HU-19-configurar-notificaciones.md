@@ -2,7 +2,6 @@
 id: HU-19
 titulo: 'HU-19 "Configurar Notificaciones"'
 tipo: historia
-epica: EP-04
 etiquetas: [HU, Sprint-3, Notificaciones, historia-usuario, prioridad:media, sp:3]
 milestone: ""
 ---

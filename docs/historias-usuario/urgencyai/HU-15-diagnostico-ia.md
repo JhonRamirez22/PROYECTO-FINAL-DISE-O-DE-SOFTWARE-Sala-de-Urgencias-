@@ -2,7 +2,6 @@
 id: HU-15
 titulo: 'HU-15 "Solicitar Diagnóstico IA"'
 tipo: historia
-epica: EP-03
 etiquetas: [HU, Sprint-2, IA-Diagnóstico, historia-usuario, prioridad:media, sp:8]
 milestone: ""
 ---

@@ -2,7 +2,6 @@
 id: HU-09
 titulo: 'HU-09 "Registrar Signos Vitales"'
 tipo: historia
-epica: EP-02
 etiquetas: [HU, Sprint-2, Signos-Vitales, historia-usuario, prioridad:alta, sp:5]
 milestone: ""
 ---

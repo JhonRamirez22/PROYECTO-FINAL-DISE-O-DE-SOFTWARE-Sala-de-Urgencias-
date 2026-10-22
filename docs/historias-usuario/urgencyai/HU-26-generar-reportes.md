@@ -2,7 +2,6 @@
 id: HU-26
 titulo: 'HU-26 "Generar Reportes"'
 tipo: historia
-epica: EP-04
 etiquetas: [HU, Sprint-3, Dashboard, historia-usuario, prioridad:media, sp:8]
 milestone: ""
 ---

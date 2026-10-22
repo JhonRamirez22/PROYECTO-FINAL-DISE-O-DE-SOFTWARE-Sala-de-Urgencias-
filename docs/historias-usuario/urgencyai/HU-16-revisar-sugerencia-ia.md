@@ -2,7 +2,6 @@
 id: HU-16
 titulo: 'HU-16 "Revisar Sugerencia IA"'
 tipo: historia
-epica: EP-03
 etiquetas: [HU, Sprint-2, IA-Diagnóstico, historia-usuario, prioridad:media, sp:3]
 milestone: ""
 ---

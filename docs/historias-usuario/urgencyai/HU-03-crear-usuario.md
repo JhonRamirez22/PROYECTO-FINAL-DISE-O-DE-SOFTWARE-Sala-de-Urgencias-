@@ -2,7 +2,6 @@
 id: HU-03
 titulo: 'HU-03 "Crear Usuario"'
 tipo: historia
-epica: EP-01
 etiquetas: [HU, Sprint-1, Gestión-Usuarios, historia-usuario, prioridad:alta, sp:3]
 milestone: ""
 ---

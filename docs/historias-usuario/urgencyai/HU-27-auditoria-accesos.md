@@ -2,7 +2,6 @@
 id: HU-27
 titulo: 'HU-27 "Auditoría de Accesos"'
 tipo: historia
-epica: EP-04
 etiquetas: [HU, Sprint-3, Seguridad, historia-usuario, prioridad:media, sp:5]
 milestone: ""
 ---

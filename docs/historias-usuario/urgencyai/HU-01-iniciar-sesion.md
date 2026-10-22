@@ -2,7 +2,6 @@
 id: HU-01
 titulo: 'HU-01 "Iniciar Sesión"'
 tipo: historia
-epica: EP-01
 etiquetas: [HU, Sprint-1, Autenticación, historia-usuario, prioridad:alta, sp:3]
 milestone: ""
 ---

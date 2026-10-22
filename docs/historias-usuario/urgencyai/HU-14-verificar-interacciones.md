@@ -2,7 +2,6 @@
 id: HU-14
 titulo: 'HU-14 "Verificar Interacciones"'
 tipo: historia
-epica: EP-03
 etiquetas: [HU, Sprint-2, Farmacología, historia-usuario, prioridad:media, sp:5]
 milestone: ""
 ---

@@ -2,7 +2,6 @@
 id: HU-25
 titulo: 'HU-25 "Ver Dashboard Principal"'
 tipo: historia
-epica: EP-04
 etiquetas: [HU, Sprint-3, Dashboard, historia-usuario, prioridad:media, sp:5]
 milestone: ""
 ---

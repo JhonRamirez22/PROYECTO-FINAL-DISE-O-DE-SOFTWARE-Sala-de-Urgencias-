@@ -2,7 +2,6 @@
 id: HU-13
 titulo: 'HU-13 "Registrar Dosis"'
 tipo: historia
-epica: EP-03
 etiquetas: [HU, Sprint-2, Farmacología, historia-usuario, prioridad:alta, sp:5]
 milestone: ""
 ---

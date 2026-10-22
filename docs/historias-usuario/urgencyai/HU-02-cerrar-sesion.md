@@ -2,7 +2,6 @@
 id: HU-02
 titulo: 'HU-02 "Cerrar Sesión"'
 tipo: historia
-epica: EP-01
 etiquetas: [HU, Sprint-1, Autenticación, historia-usuario, prioridad:alta, sp:3]
 milestone: ""
 ---

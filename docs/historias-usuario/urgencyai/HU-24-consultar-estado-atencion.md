@@ -2,7 +2,6 @@
 id: HU-24
 titulo: 'HU-24 "Consultar Estado de Paciente"'
 tipo: historia
-epica: EP-04
 etiquetas: [HU, Sprint-3, Asistencia-Paciente, historia-usuario, prioridad:media, sp:5]
 milestone: ""
 ---
