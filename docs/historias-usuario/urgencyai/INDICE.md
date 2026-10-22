@@ -2,9 +2,9 @@
 
 **Sistema:** UrgencyAI · gestión de sala de urgencias
 **Repositorio destino:** `JhonRamirez22/PROYECTO-FINAL-DISE-O-DE-SOFTWARE-Sala-de-Urgencias-`
-**Alcance de esta entrega:** reescritura de las 11 historias marcadas como rojas en la auditoría del backlog.
-**Resultado:** 11 historias originales → **13 historias** (2 divisiones por INVEST) + 4 épicas.
-**Puntos totales:** 60.
+**Alcance de esta entrega:** reescritura de las 11 historias marcadas como rojas en la auditoría del backlog y unificación de las **29 historias** en un mismo formato, cada una con su mockup anotado.
+**Resultado:** 11 historias originales → **13 reescritas** (2 divisiones por INVEST) + **16 historias que ya existían** sin reescribir + 4 épicas = **29 historias**.
+**Puntos totales de las 13 reescritas:** 60.
 
 ---
 
@@ -75,6 +75,8 @@ Se conserva el número original para mantener la trazabilidad con `docs/requisit
 
 **Total: 60 puntos.**
 
+Las **16 historias restantes** — HU-01, HU-04, HU-05, HU-07, HU-08, HU-10, HU-11, HU-13, HU-16, HU-17, HU-18, HU-19, HU-20, HU-21, HU-22 y HU-23 — conservan su redacción original. Se les unificó el formato y se les reemplazó el mockup por uno del mismo estilo anotado; no se reescribió su contenido.
+
 ---
 
 ## 5. Orden de release
@@ -93,18 +95,34 @@ La IA va al final a propósito: es la historia de mayor riesgo técnico y menor 
 
 ## 6. Mockups
 
-Cada historia incluye un mockup de baja fidelidad en SVG, monocromático y anotado con números. Los archivos viven en `docs/historias-usuario/urgencyai/wireframes/`:
+Cada una de las 29 historias incluye un mockup de baja fidelidad en SVG, monocromático y anotado con números. Los archivos viven en `docs/historias-usuario/urgencyai/wireframes/` y la leyenda numerada de cada uno está al pie de su historia en `docs/historias-usuario/urgencyai/` y en la issue correspondiente:
 
 | Historia | Archivo |
 |---|---|
+| HU-01 | `wireframes/HU-01-iniciar-sesion.svg` |
 | HU-02 | `wireframes/HU-02-cerrar-sesion.svg` |
 | HU-03 | `wireframes/HU-03-crear-usuario.svg` |
+| HU-04 | `wireframes/HU-04-editar-usuario.svg` |
+| HU-05 | `wireframes/HU-05-listar-usuarios.svg` |
 | HU-06 | `wireframes/HU-06-registrar-paciente.svg` |
+| HU-07 | `wireframes/HU-07-buscar-paciente.svg` |
+| HU-08 | `wireframes/HU-08-editar-paciente.svg` |
 | HU-09 | `wireframes/HU-09-registrar-signos-vitales.svg` |
+| HU-10 | `wireframes/HU-10-visualizar-signos.svg` |
+| HU-11 | `wireframes/HU-11-editar-signos.svg` |
 | HU-12a | `wireframes/HU-12a-catalogo-medicamentos.svg` |
 | HU-12b | `wireframes/HU-12b-lotes-vencimientos.svg` |
+| HU-13 | `wireframes/HU-13-registrar-dosis.svg` |
 | HU-14 | `wireframes/HU-14-verificar-interacciones.svg` |
 | HU-15 | `wireframes/HU-15-diagnostico-ia.svg` |
+| HU-16 | `wireframes/HU-16-revisar-sugerencia-ia.svg` |
+| HU-17 | `wireframes/HU-17-clasificar-triaje.svg` |
+| HU-18 | `wireframes/HU-18-recibir-notificacion.svg` |
+| HU-19 | `wireframes/HU-19-configurar-notificaciones.svg` |
+| HU-20 | `wireframes/HU-20-validar-diagnostico-ia.svg` |
+| HU-21 | `wireframes/HU-21-gestionar-insumos.svg` |
+| HU-22 | `wireframes/HU-22-activar-alerta.svg` |
+| HU-23 | `wireframes/HU-23-responder-alerta.svg` |
 | HU-24 | `wireframes/HU-24-consultar-estado-atencion.svg` |
 | HU-25 | `wireframes/HU-25-tablero-operativo.svg` |
 | HU-26a | `wireframes/HU-26a-reporte-atenciones.svg` |
