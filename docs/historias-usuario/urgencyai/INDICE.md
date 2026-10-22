@@ -51,7 +51,7 @@ Se conserva el número original para mantener la trazabilidad con `docs/requisit
 | **EP-01** | Seguridad y control de acceso | HU-01, HU-02, HU-03, HU-04, HU-05 | 15 | #30 |
 | **EP-02** | Admisión y registro clínico | HU-06, HU-07, HU-08, HU-09, HU-10, HU-11, HU-17 | 29 | #31 |
 | **EP-03** | Farmacia y apoyo a la decisión clínica | HU-12, HU-13, HU-14, HU-15, HU-16, HU-20 | 32 | #32 |
-| **EP-04** | Operación, seguimiento y cumplimiento | HU-18, HU-19, HU-21, HU-22, HU-23, HU-24, HU-25, HU-26, HU-27 | 44 | #33 |
+| **EP-04** | Operación, seguimiento y cumplimiento | HU-18, HU-19, HU-21, HU-22, HU-23, HU-24, HU-25, HU-26, HU-27 | 44 | #38 |
 
 **Total del backlog: 120 puntos en 27 historias.** La sección 4 detalla solo las 11 reescritas, que suman 60 puntos.
 
