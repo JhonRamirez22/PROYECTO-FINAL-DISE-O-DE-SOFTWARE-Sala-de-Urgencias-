@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="740" viewBox="0 0 960 740" role="img">
+<rect width="960" height="740" fill="#FFFFFF"/>
+<text x="32" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#1F1F1F">HU-15 · Obtener diagnóstico asistido por IA</text>
+<text x="924" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Wireframe de baja fidelidad</text>
+<rect x="32" y="52" width="856" height="44" rx="2" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="48" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F1F1F">UrgencyAI</text>
+<text x="122" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#5F6368">· Atención</text>
+<text x="872" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Dr. Andrés Rojas</text>
+<text x="48" y="136" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">María López · 41 años · Ticket T-20261022-014</text>
+<rect x="32" y="152" width="856" height="208" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="152" width="856" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="44" y="172" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Entrada clínica</text>
+<rect x="32" y="152" width="856" height="208" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="56" y="196" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Síntomas reportados</text>
+<rect x="56" y="202" width="500" height="74" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="68" y="224" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">fiebre 39 °C, tos seca, disnea de esfuerzo</text>
+<rect x="580" y="186" width="288" height="112" rx="2" fill="#F7F7F7" stroke="#9AA0A6" stroke-width="1"/>
+<text x="596" y="206" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#1F1F1F">Datos que se envían</text>
+<text x="596" y="228" font-family="SF Mono,Menlo,Consolas,monospace" font-size="10" font-weight="normal" text-anchor="start" fill="#1F1F1F">Edad: 41</text>
+<text x="736" y="228" font-family="SF Mono,Menlo,Consolas,monospace" font-size="10" font-weight="normal" text-anchor="start" fill="#1F1F1F">Sexo: M</text>
+<text x="596" y="248" font-family="SF Mono,Menlo,Consolas,monospace" font-size="10" font-weight="normal" text-anchor="start" fill="#1F1F1F">Temperatura: 39.1 °C</text>
+<text x="736" y="248" font-family="SF Mono,Menlo,Consolas,monospace" font-size="10" font-weight="normal" text-anchor="start" fill="#1F1F1F">FC: 112 lpm</text>
+<text x="596" y="268" font-family="SF Mono,Menlo,Consolas,monospace" font-size="10" font-weight="normal" text-anchor="start" fill="#1F1F1F">SpO2: 91 %</text>
+<text x="736" y="268" font-family="SF Mono,Menlo,Consolas,monospace" font-size="10" font-weight="normal" text-anchor="start" fill="#1F1F1F">FR: 24 rpm</text>
+<text x="56" y="296" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">No se envía nombre, cédula, teléfono ni dirección.</text>
+<rect x="56" y="304" width="244" height="34" rx="2" fill="#1F1F1F" stroke="#1F1F1F" stroke-width="1"/>
+<text x="178.0" y="325.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Solicitar diagnóstico asistido</text>
+<rect x="32" y="378" width="856" height="318" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="378" width="856" height="318" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<rect x="32" y="378" width="856" height="32" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="48" y="399" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Sugerencia de IA. No constituye diagnóstico.</text>
+<line x1="32" y1="410" x2="888" y2="410" stroke="#9AA0A6" stroke-width="1"/>
+<text x="48" y="442" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" text-anchor="start" fill="#1F1F1F">Neumonía adquirida en la comunidad</text>
+<text x="640" y="442" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="end" fill="#1F1F1F">82 %</text>
+<rect x="660" y="432" width="180" height="8" rx="4" fill="#DADCE0" stroke="none" stroke-width="0"/>
+<rect x="660" y="432" width="147.6" height="8" rx="4" fill="#5F6368" stroke="none" stroke-width="0"/>
+<text x="48" y="460" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Recomendación: radiografía de tórax.</text>
+<text x="48" y="496" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" text-anchor="start" fill="#1F1F1F">Bronquitis aguda</text>
+<text x="640" y="496" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="end" fill="#1F1F1F">11 %</text>
+<rect x="660" y="486" width="180" height="8" rx="4" fill="#DADCE0" stroke="none" stroke-width="0"/>
+<rect x="660" y="486" width="19.8" height="8" rx="4" fill="#5F6368" stroke="none" stroke-width="0"/>
+<text x="48" y="514" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Recomendación: auscultación dirigida.</text>
+<text x="48" y="550" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" text-anchor="start" fill="#1F1F1F">COVID-19</text>
+<text x="640" y="550" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="end" fill="#1F1F1F">5 %</text>
+<rect x="660" y="540" width="180" height="8" rx="4" fill="#DADCE0" stroke="none" stroke-width="0"/>
+<rect x="660" y="540" width="9.0" height="8" rx="4" fill="#5F6368" stroke="none" stroke-width="0"/>
+<text x="48" y="568" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Recomendación: prueba antigénica.</text>
+<text x="48" y="604" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" text-anchor="start" fill="#1F1F1F">Tuberculosis pulmonar</text>
+<text x="640" y="604" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="end" fill="#1F1F1F">2 %</text>
+<rect x="660" y="594" width="180" height="8" rx="4" fill="#DADCE0" stroke="none" stroke-width="0"/>
+<rect x="660" y="594" width="4" height="8" rx="4" fill="#5F6368" stroke="none" stroke-width="0"/>
+<text x="48" y="622" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Recomendación: baciloscopia.</text>
+<rect x="48" y="644" width="110" height="32" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="103.0" y="664.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1F1F1F">Descartar</text>
+<rect x="170" y="644" width="244" height="32" rx="2" fill="#1F1F1F" stroke="#1F1F1F" stroke-width="1"/>
+<text x="292.0" y="664.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Registrar como diagnóstico</text>
+<circle cx="572" cy="214" r="9" fill="#1F1F1F"/>
+<text x="572" y="218" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">1</text>
+<circle cx="916" cy="214" r="9" fill="#1F1F1F"/>
+<text x="916" y="218" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">2</text>
+<circle cx="318" cy="321" r="9" fill="#1F1F1F"/>
+<text x="318" y="325" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">3</text>
+<circle cx="916" cy="394" r="9" fill="#1F1F1F"/>
+<text x="916" y="398" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">4</text>
+<circle cx="560" cy="442" r="9" fill="#1F1F1F"/>
+<text x="560" y="446" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">5</text>
+<text x="32" y="726" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">Entre 3 y 5 diagnósticos con nivel de confianza y recomendación; tiempo máximo 5 segundos.</text>
+</svg>

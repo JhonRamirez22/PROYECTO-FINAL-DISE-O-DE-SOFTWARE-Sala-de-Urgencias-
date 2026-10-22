@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="660" viewBox="0 0 960 660" role="img">
+<rect width="960" height="660" fill="#FFFFFF"/>
+<text x="32" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#1F1F1F">HU-25 · Ver tablero operativo del servicio</text>
+<text x="924" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Wireframe de baja fidelidad</text>
+<rect x="32" y="52" width="856" height="44" rx="2" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="48" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F1F1F">UrgencyAI</text>
+<text x="122" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#5F6368">· Tablero operativo</text>
+<text x="872" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Carlos Peña · Administrador</text>
+<text x="48" y="130" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Actualizado 11:00:30</text>
+<rect x="780" y="112" width="92" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="826.0" y="131.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1F1F1F">Actualizar</text>
+<rect x="32" y="156" width="270" height="96" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="50" y="184" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">EN ESPERA</text>
+<text x="50" y="228" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" text-anchor="start" fill="#1F1F1F">12</text>
+<rect x="325" y="156" width="270" height="96" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="343" y="184" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">EN ATENCIÓN</text>
+<text x="343" y="228" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" text-anchor="start" fill="#1F1F1F">7</text>
+<rect x="618" y="156" width="270" height="96" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="636" y="184" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">ATENDIDOS</text>
+<text x="636" y="228" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="34" font-weight="600" text-anchor="start" fill="#1F1F1F">21</text>
+<rect x="32" y="268" width="856" height="52" rx="2" fill="#F7F7F7" stroke="#9AA0A6" stroke-width="1"/>
+<text x="48" y="300" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Tiempo promedio de espera de quienes siguen esperando</text>
+<text x="872" y="306" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="20" font-weight="600" text-anchor="end" fill="#1F1F1F">23 minutos</text>
+<rect x="32" y="336" width="856" height="172" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="336" width="856" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="44" y="356" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Pacientes en espera</text>
+<rect x="32" y="336" width="856" height="172" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<rect x="48" y="376" width="824" height="24" rx="1" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="56" y="392" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Ticket</text>
+<text x="160" y="392" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Paciente</text>
+<text x="360" y="392" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Triaje</text>
+<text x="520" y="392" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Espera</text>
+<line x1="48" y1="432" x2="872" y2="432" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="421" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">T-014</text>
+<text x="160" y="421" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">María López</text>
+<text x="360" y="421" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Naranja (II)</text>
+<text x="520" y="421" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">48 min</text>
+<rect x="48" y="432" width="824" height="32" rx="2" fill="#FAFAFA" stroke="none" stroke-width="1"/>
+<line x1="48" y1="464" x2="872" y2="464" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="453" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">T-018</text>
+<text x="160" y="453" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">José Ríos</text>
+<text x="360" y="453" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Verde (IV)</text>
+<text x="520" y="453" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">31 min</text>
+<line x1="48" y1="496" x2="872" y2="496" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="485" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">T-021</text>
+<text x="160" y="485" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Ana Torres</text>
+<text x="360" y="485" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Amarillo (III)</text>
+<text x="520" y="485" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">22 min</text>
+<rect x="32" y="526" width="856" height="104" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="526" width="856" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="44" y="546" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Alertas activas</text>
+<rect x="32" y="526" width="856" height="104" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<rect x="48" y="566" width="4" height="30" rx="2" fill="#5F6368" stroke="none" stroke-width="1"/>
+<text x="64" y="580" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Farmacia · Ibuprofeno 400 mg por debajo del stock mínimo</text>
+<text x="64" y="596" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Registrada a las 10:42 · sin atender</text>
+<circle cx="916" cy="128" r="9" fill="#1F1F1F"/>
+<text x="916" y="132" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">1</text>
+<circle cx="916" cy="200" r="9" fill="#1F1F1F"/>
+<text x="916" y="204" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">2</text>
+<circle cx="916" cy="300" r="9" fill="#1F1F1F"/>
+<text x="916" y="304" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">3</text>
+<circle cx="916" cy="412" r="9" fill="#1F1F1F"/>
+<text x="916" y="416" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">4</text>
+<circle cx="916" cy="572" r="9" fill="#1F1F1F"/>
+<text x="916" y="576" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">5</text>
+<text x="32" y="650" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">Los tres conteos cubren el día en curso y son excluyentes.</text>
+</svg>
