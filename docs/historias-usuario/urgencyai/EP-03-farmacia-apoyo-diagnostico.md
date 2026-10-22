@@ -17,9 +17,12 @@ milestone: ""
 ## Historias
 
 - [ ] HU-12a · Gestionar catálogo de medicamentos — 3 pts — Must (#34)
-- [ ] HU-12b · Controlar lotes, vencimientos y stock — 5 pts — Should (#35)
-- [ ] HU-14 · Verificar interacciones medicamentosas — 5 pts — Should (#14)
-- [ ] HU-15 · Obtener diagnóstico asistido por IA — 8 pts — Should (#15)
+- [ ] HU-12b · Controlar lotes y vencimientos — 5 pts — Should (#35)
+- [ ] HU-13 · Registrar dosis — 5 pts — Must (#13)
+- [ ] HU-14 · Verificar interacciones — 5 pts — Should (#14)
+- [ ] HU-15 · Solicitar diagnóstico IA — 8 pts — Should (#15)
+- [ ] HU-16 · Revisar sugerencia IA — 3 pts — Should (#16)
+- [ ] HU-20 · Validar diagnóstico IA — 3 pts — Should (#20)
 
 ## Fuera de alcance de esta épica
 

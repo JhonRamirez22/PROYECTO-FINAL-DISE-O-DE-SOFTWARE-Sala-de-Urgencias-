@@ -48,10 +48,12 @@ Se conserva el número original para mantener la trazabilidad con `docs/requisit
 
 | Épica | Nombre | Historias | Puntos | Issue |
 |---|---|---|---:|---|
-| **EP-01** | Seguridad y control de acceso | HU-02, HU-03 | 6 | #30 |
-| **EP-02** | Admisión y registro clínico | HU-06, HU-09 | 10 | #31 |
-| **EP-03** | Farmacia y apoyo a la decisión clínica | HU-12a, HU-12b, HU-14, HU-15 | 21 | #32 |
-| **EP-04** | Operación, seguimiento y cumplimiento | HU-24, HU-25, HU-26a, HU-26b, HU-27 | 23 | #33 |
+| **EP-01** | Seguridad y control de acceso | HU-01, HU-02, HU-03, HU-04, HU-05 | 15 | #30 |
+| **EP-02** | Admisión y registro clínico | HU-06, HU-07, HU-08, HU-09, HU-10, HU-11, HU-17 | 29 | #31 |
+| **EP-03** | Farmacia y apoyo a la decisión clínica | HU-12a, HU-12b, HU-13, HU-14, HU-15, HU-16, HU-20 | 32 | #32 |
+| **EP-04** | Operación, seguimiento y cumplimiento | HU-18, HU-19, HU-21, HU-22, HU-23, HU-24, HU-25, HU-26a, HU-26b, HU-27 | 44 | #33 |
+
+**Total del backlog: 120 puntos en 29 historias.** La sección 4 detalla solo las 13 reescritas, que suman 60 puntos.
 
 ---
 
@@ -79,7 +81,9 @@ Las **16 historias restantes** — HU-01, HU-04, HU-05, HU-07, HU-08, HU-10, HU-
 
 ---
 
-## 5. Orden de release
+## 5. Orden de release de las historias reescritas
+
+Las 16 historias que no se reescribieron conservan el sprint que ya tenían asignado en el backlog original.
 
 **MVP (Must) — 19 puntos, 5 historias:**
 HU-02 → HU-03 → HU-06 → HU-09 → HU-12a

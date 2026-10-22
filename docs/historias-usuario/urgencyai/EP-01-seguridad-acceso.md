@@ -16,8 +16,11 @@ milestone: ""
 
 ## Historias
 
-- [ ] HU-02 · Cerrar sesión de forma segura — 3 pts — Must (#2)
-- [ ] HU-03 · Crear usuario del sistema — 3 pts — Must (#3)
+- [ ] HU-01 · Iniciar sesión — 3 pts — Must (#1)
+- [ ] HU-02 · Cerrar sesión — 3 pts — Must (#2)
+- [ ] HU-03 · Crear usuario — 3 pts — Must (#3)
+- [ ] HU-04 · Editar usuario — 3 pts — Should (#4)
+- [ ] HU-05 · Listar/buscar usuarios — 3 pts — Should (#5)
 
 ## Fuera de alcance de esta épica
 
@@ -27,4 +30,4 @@ milestone: ""
 
 ## Notas
 
-El rol "usuario del sistema" utilizado en el backlog original desaparece: las dos historias nombran roles concretos o, cuando el valor es transversal, "miembro del personal", que es una categoría real y acotada.
+El rol "usuario del sistema" del backlog original se conserva únicamente en HU-01, porque es el texto de la historia de inicio de sesión; el resto de las historias de esta épica nombran roles concretos o, cuando el valor es transversal, "miembro del personal", que es una categoría real y acotada.

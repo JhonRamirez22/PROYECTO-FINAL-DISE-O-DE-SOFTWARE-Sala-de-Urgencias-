@@ -16,8 +16,13 @@ milestone: ""
 
 ## Historias
 
-- [ ] HU-06 · Registrar paciente en admisión — 5 pts — Must (#6)
+- [ ] HU-06 · Registrar paciente — 5 pts — Must (#6)
+- [ ] HU-07 · Buscar paciente — 3 pts — Must (#7)
+- [ ] HU-08 · Editar datos del paciente — 3 pts — Should (#8)
 - [ ] HU-09 · Registrar signos vitales — 5 pts — Must (#9)
+- [ ] HU-10 · Visualizar signos vitales — 5 pts — Must (#10)
+- [ ] HU-11 · Editar signos vitales — 3 pts — Should (#11)
+- [ ] HU-17 · Clasificar por triaje — 5 pts — Must (#17)
 
 ## Fuera de alcance de esta épica
 

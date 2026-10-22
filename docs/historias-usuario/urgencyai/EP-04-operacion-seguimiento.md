@@ -16,11 +16,16 @@ milestone: ""
 
 ## Historias
 
-- [ ] HU-24 · Consultar estado de atención — 5 pts — Should (#24)
-- [ ] HU-25 · Ver tablero operativo del servicio — 5 pts — Should (#25)
+- [ ] HU-18 · Recibir notificación de emergencia — 5 pts — Must (#18)
+- [ ] HU-19 · Configurar notificaciones — 3 pts — Should (#19)
+- [ ] HU-21 · Gestionar insumos médicos — 5 pts — Could (#21)
+- [ ] HU-22 · Activar alerta de emergencia — 3 pts — Must (#22)
+- [ ] HU-23 · Responder a alerta — 5 pts — Must (#23)
+- [ ] HU-24 · Consultar estado de paciente — 5 pts — Should (#24)
+- [ ] HU-25 · Ver dashboard principal — 5 pts — Should (#25)
 - [ ] HU-26a · Consultar reporte de atenciones — 5 pts — Should (#36)
-- [ ] HU-26b · Exportar reporte de atenciones — 3 pts — Should (#37)
-- [ ] HU-27 · Consultar auditoría de accesos — 5 pts — Should (#27)
+- [ ] HU-26b · Exportar reporte de atenciones — 3 pts — Could (#37)
+- [ ] HU-27 · Auditoría de accesos — 5 pts — Should (#27)
 
 ## Fuera de alcance de esta épica
 
