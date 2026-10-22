@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" role="img">
+<rect width="960" height="720" fill="#FFFFFF"/>
+<text x="32" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#1F1F1F">HU-08 · Editar datos del paciente</text>
+<text x="924" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Wireframe de baja fidelidad</text>
+<rect x="32" y="52" width="856" height="44" rx="2" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="48" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F1F1F">UrgencyAI</text>
+<text x="122" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#5F6368">· Pacientes</text>
+<text x="872" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Diego Salas · Cajero</text>
+<rect x="32" y="112" width="560" height="424" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="112" width="560" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="44" y="132" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Datos del paciente</text>
+<rect x="32" y="112" width="560" height="424" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="56" y="162" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Cédula (no editable)</text>
+<rect x="56" y="168" width="512" height="30" rx="2" fill="#F5F5F5" stroke="#9AA0A6" stroke-width="1"/>
+<text x="66" y="187.0" font-family="SF Mono,Menlo,Consolas,monospace" font-size="12" font-weight="normal" text-anchor="start" fill="#5F6368">1-2345-6789</text>
+<text x="56" y="222" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Teléfono</text>
+<rect x="56" y="228" width="512" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="66" y="247.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">8888-1234</text>
+<text x="56" y="282" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Dirección</text>
+<rect x="56" y="288" width="512" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="66" y="307.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Barrio San José, casa 14</text>
+<text x="56" y="342" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Contacto de emergencia</text>
+<rect x="56" y="348" width="512" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="66" y="367.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Ana López · 8777-5566</text>
+<rect x="300" y="466" width="120" height="38" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="360.0" y="489.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1F1F1F">Cancelar</text>
+<rect x="436" y="466" width="132" height="38" rx="2" fill="#1F1F1F" stroke="#1F1F1F" stroke-width="1"/>
+<text x="502.0" y="489.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Guardar cambios</text>
+<rect x="608" y="112" width="280" height="424" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="608" y="112" width="280" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="620" y="132" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Historial de modificaciones</text>
+<rect x="608" y="112" width="280" height="424" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="620" y="158" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" text-anchor="start" fill="#5F6368">12/03 08:05</text>
+<text x="620" y="178" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1F1F1F">Teléfono actualizado</text>
+<text x="620" y="196" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">por Diego Salas</text>
+<line x1="620" y1="210" x2="876" y2="210" stroke="#DADCE0" stroke-width="1"/>
+<text x="620" y="232" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" text-anchor="start" fill="#5F6368">12/03 08:05</text>
+<text x="620" y="252" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1F1F1F">Dirección actualizada</text>
+<text x="620" y="270" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">por Diego Salas</text>
+<line x1="620" y1="284" x2="876" y2="284" stroke="#DADCE0" stroke-width="1"/>
+<text x="620" y="306" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" text-anchor="start" fill="#5F6368">04/02 19:30</text>
+<text x="620" y="326" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1F1F1F">Contacto actualizado</text>
+<text x="620" y="344" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">por Ana Ruiz</text>
+<line x1="620" y1="358" x2="876" y2="358" stroke="#DADCE0" stroke-width="1"/>
+<circle cx="16" cy="180" r="9" fill="#1F1F1F"/>
+<text x="16" y="184" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">1</text>
+<circle cx="16" cy="240" r="9" fill="#1F1F1F"/>
+<text x="16" y="244" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">2</text>
+<circle cx="16" cy="300" r="9" fill="#1F1F1F"/>
+<text x="16" y="304" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">3</text>
+<circle cx="16" cy="360" r="9" fill="#1F1F1F"/>
+<text x="16" y="364" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">4</text>
+<circle cx="916" cy="200" r="9" fill="#1F1F1F"/>
+<text x="916" y="204" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">5</text>
+<text x="32" y="570" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">Reglas de edición</text>
+<rect x="32" y="584" width="856" height="88" rx="2" fill="#F7F7F7" stroke="#DADCE0" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="48" y="612" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#1F1F1F">La cédula no se modifica: es el identificador único del paciente.</text>
+<text x="48" y="634" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#1F1F1F">Cada campo modificado genera un registro con fecha, hora y usuario.</text>
+<text x="48" y="656" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#1F1F1F">El historial conserva el valor anterior y el nuevo.</text>
+<text x="32" y="700" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">La edición no requiere aprobación; queda registrada en auditoría.</text>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="740" viewBox="0 0 960 740" role="img">
+<rect width="960" height="740" fill="#FFFFFF"/>
+<text x="32" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#1F1F1F">HU-04 · Editar usuario</text>
+<text x="924" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Wireframe de baja fidelidad</text>
+<rect x="32" y="52" width="856" height="44" rx="2" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="48" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F1F1F">UrgencyAI</text>
+<text x="122" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#5F6368">· Usuarios</text>
+<text x="872" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Carlos Peña · Administrador</text>
+<rect x="32" y="112" width="560" height="424" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="112" width="560" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="44" y="132" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Editar usuario</text>
+<rect x="32" y="112" width="560" height="424" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="56" y="166" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Nombre completo</text>
+<rect x="56" y="172" width="512" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="66" y="191.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Lucía Márquez</text>
+<text x="56" y="226" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Correo electrónico</text>
+<rect x="56" y="232" width="512" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="66" y="251.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">lucia.marquez@hospital.org</text>
+<text x="56" y="286" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Rol</text>
+<rect x="56" y="292" width="512" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="66" y="311.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Enfermera</text>
+<path d="M 548 305.0 l 5 5 l 5 -5" fill="none" stroke="#5F6368" stroke-width="1.4"/>
+<text x="56" y="352" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Estado</text>
+<circle cx="63" cy="367" r="6.5" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1.2"/>
+<circle cx="63" cy="367" r="3.2" fill="#1F1F1F"/>
+<text x="78" y="371" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Activo</text>
+<circle cx="157" cy="367" r="6.5" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1.2"/>
+<text x="172" y="371" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Inactivo</text>
+<text x="56" y="400" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">La cédula y el identificador interno no son editables.</text>
+<rect x="300" y="466" width="120" height="38" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="360.0" y="489.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1F1F1F">Cancelar</text>
+<rect x="436" y="466" width="132" height="38" rx="2" fill="#1F1F1F" stroke="#1F1F1F" stroke-width="1"/>
+<text x="502.0" y="489.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Guardar cambios</text>
+<rect x="608" y="112" width="280" height="424" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="608" y="112" width="280" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="620" y="132" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Historial de cambios</text>
+<rect x="608" y="112" width="280" height="424" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="620" y="158" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" text-anchor="start" fill="#5F6368">12/03 09:14</text>
+<text x="620" y="178" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1F1F1F">Rol: Enfermera → Médico</text>
+<text x="620" y="196" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">por Carlos Peña</text>
+<line x1="620" y1="210" x2="876" y2="210" stroke="#DADCE0" stroke-width="1"/>
+<text x="620" y="232" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" text-anchor="start" fill="#5F6368">08/03 16:02</text>
+<text x="620" y="252" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1F1F1F">Correo actualizado</text>
+<text x="620" y="270" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">por Carlos Peña</text>
+<line x1="620" y1="284" x2="876" y2="284" stroke="#DADCE0" stroke-width="1"/>
+<text x="620" y="306" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" text-anchor="start" fill="#5F6368">01/03 11:40</text>
+<text x="620" y="326" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1F1F1F">Alta del usuario</text>
+<text x="620" y="344" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">por Carlos Peña</text>
+<line x1="620" y1="358" x2="876" y2="358" stroke="#DADCE0" stroke-width="1"/>
+<circle cx="16" cy="190" r="9" fill="#1F1F1F"/>
+<text x="16" y="194" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">1</text>
+<circle cx="16" cy="250" r="9" fill="#1F1F1F"/>
+<text x="16" y="254" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">2</text>
+<circle cx="16" cy="310" r="9" fill="#1F1F1F"/>
+<text x="16" y="314" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">3</text>
+<circle cx="16" cy="372" r="9" fill="#1F1F1F"/>
+<text x="16" y="376" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">4</text>
+<circle cx="916" cy="200" r="9" fill="#1F1F1F"/>
+<text x="916" y="204" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">5</text>
+<text x="32" y="570" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">C. Confirmación antes de guardar</text>
+<rect x="32" y="584" width="856" height="96" rx="2" fill="#F7F7F7" stroke="#DADCE0" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="48" y="616" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">El resto de la pantalla queda bloqueada.</text>
+<rect x="330" y="594" width="360" height="78" rx="3" fill="#FFFFFF" stroke="#1F1F1F" stroke-width="2"/>
+<text x="352" y="624" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">¿Guardar los cambios de Lucía Márquez?</text>
+<rect x="500" y="638" width="80" height="26" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="540.0" y="655.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="middle" fill="#1F1F1F">No</text>
+<rect x="590" y="638" width="90" height="26" rx="2" fill="#1F1F1F" stroke="#1F1F1F" stroke-width="1"/>
+<text x="635.0" y="655.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Sí, guardar</text>
+<circle cx="916" cy="634" r="9" fill="#1F1F1F"/>
+<text x="916" y="638" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">6</text>
+<text x="32" y="712" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">Todo cambio queda asociado al usuario que lo realizó.</text>
+</svg>

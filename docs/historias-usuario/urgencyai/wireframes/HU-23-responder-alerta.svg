@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="700" viewBox="0 0 960 700" role="img">
+<rect width="960" height="700" fill="#FFFFFF"/>
+<text x="32" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#1F1F1F">HU-23 · Responder a alerta</text>
+<text x="924" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Wireframe de baja fidelidad</text>
+<rect x="32" y="52" width="856" height="44" rx="2" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="48" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F1F1F">UrgencyAI</text>
+<text x="122" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#5F6368">· Notificaciones</text>
+<text x="872" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Marco León · Médico</text>
+<rect x="32" y="112" width="856" height="86" rx="2" fill="#EFEFEF" stroke="#1F1F1F" stroke-width="1.5"/>
+<text x="48" y="142" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" text-anchor="start" fill="#1F1F1F">Código rojo activo · Cama 04</text>
+<text x="48" y="164" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#1F1F1F">María López · Activado hace 01:28 por Ana Ruiz</text>
+<text x="48" y="184" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" text-anchor="start" fill="#5F6368">Sin respuesta registrada</text>
+<circle cx="916" cy="150" r="9" fill="#1F1F1F"/>
+<text x="916" y="154" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">1</text>
+<rect x="32" y="220" width="420" height="200" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="220" width="420" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="44" y="240" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Mi respuesta</text>
+<rect x="32" y="220" width="420" height="200" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<rect x="56" y="268" width="180" height="44" rx="2" fill="#1F1F1F" stroke="#1F1F1F" stroke-width="1"/>
+<text x="146.0" y="294.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Respondiendo</text>
+<text x="56" y="328" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Tiempo estimado de llegada</text>
+<rect x="56" y="334" width="180" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="66" y="353.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">2 minutos</text>
+<path d="M 216 347.0 l 5 5 l 5 -5" fill="none" stroke="#5F6368" stroke-width="1.4"/>
+<text x="56" y="392" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">Al confirmar, el equipo ve que vas en camino.</text>
+<circle cx="16" cy="290" r="9" fill="#1F1F1F"/>
+<text x="16" y="294" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">2</text>
+<rect x="468" y="220" width="420" height="200" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="468" y="220" width="420" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="480" y="240" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Quién está respondiendo</text>
+<rect x="468" y="220" width="420" height="200" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="484" y="264" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1F1F1F">Marco León · Médico</text>
+<text x="864" y="264" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="end" fill="#1F1F1F">2 min</text>
+<line x1="484" y1="280" x2="864" y2="280" stroke="#DADCE0" stroke-width="1"/>
+<text x="484" y="308" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="normal" text-anchor="start" fill="#1F1F1F">Ana Ruiz · Enfermera</text>
+<text x="864" y="308" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="end" fill="#1F1F1F">1 min</text>
+<line x1="484" y1="324" x2="864" y2="324" stroke="#DADCE0" stroke-width="1"/>
+<text x="484" y="372" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">Escalación a jefe de turno si nadie responde en 5 min.</text>
+<circle cx="916" cy="290" r="9" fill="#1F1F1F"/>
+<text x="916" y="294" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">3</text>
+<text x="32" y="462" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="start" fill="#5F6368">B. Escalación automática</text>
+<rect x="32" y="476" width="856" height="74" rx="2" fill="#F7F7F7" stroke="#9AA0A6" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="48" y="504" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Si no hay respuesta en 5 minutos, la alerta escala a jefe de turno y dirección.</text>
+<text x="48" y="526" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">A los 10 minutos se notifica además a todo el servicio.</text>
+<text x="32" y="596" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" text-anchor="start" fill="#5F6368">Tiempo de respuesta promedio</text>
+<text x="32" y="622" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" text-anchor="start" fill="#1F1F1F">02:14</text>
+<text x="140" y="622" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">sobre las últimas 30 alertas</text>
+<circle cx="916" cy="508" r="9" fill="#1F1F1F"/>
+<text x="916" y="512" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">4</text>
+<text x="32" y="668" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">El tiempo se mide desde la activación hasta la confirmación de llegada.</text>
+</svg>

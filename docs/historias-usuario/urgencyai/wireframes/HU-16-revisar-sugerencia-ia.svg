@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="740" viewBox="0 0 960 740" role="img">
+<rect width="960" height="740" fill="#FFFFFF"/>
+<text x="32" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#1F1F1F">HU-16 · Revisar sugerencia IA</text>
+<text x="924" y="34" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Wireframe de baja fidelidad</text>
+<rect x="32" y="52" width="856" height="44" rx="2" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="48" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F1F1F">UrgencyAI</text>
+<text x="122" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#5F6368">· Apoyo diagnóstico</text>
+<text x="872" y="79" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="end" fill="#5F6368">Marco León · Médico</text>
+<rect x="32" y="112" width="856" height="54" rx="2" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="48" y="136" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#1F1F1F">María López</text>
+<text x="48" y="154" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">1-2345-6789 · 34 años · Ingreso 12/03 07:20</text>
+<rect x="778" y="127" width="88" height="24" rx="12" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="822.0" y="143" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="middle" fill="#1F1F1F">Triaje II</text>
+<rect x="32" y="186" width="520" height="372" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="32" y="186" width="520" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="44" y="206" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Sugerencias de la IA</text>
+<rect x="32" y="186" width="520" height="372" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="56" y="232" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Neumonía adquirida en la comunidad</text>
+<rect x="56" y="244" width="300" height="8" rx="2" fill="#DADCE0" stroke="none" stroke-width="1"/>
+<rect x="56" y="244" width="216.0" height="8" rx="2" fill="#1F1F1F" stroke="none" stroke-width="1"/>
+<text x="366" y="252" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="#5F6368">72 %</text>
+<rect x="430" y="236" width="62" height="24" rx="12" fill="#EFEFEF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="461.0" y="252" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="middle" fill="#1F1F1F">Alta</text>
+<line x1="56" y1="272" x2="600" y2="272" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="336" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Bronquitis aguda</text>
+<rect x="56" y="348" width="300" height="8" rx="2" fill="#DADCE0" stroke="none" stroke-width="1"/>
+<rect x="56" y="348" width="54.0" height="8" rx="2" fill="#1F1F1F" stroke="none" stroke-width="1"/>
+<text x="366" y="356" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="#5F6368">18 %</text>
+<rect x="430" y="340" width="62" height="24" rx="12" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="461.0" y="356" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#1F1F1F">Media</text>
+<line x1="56" y1="376" x2="600" y2="376" stroke="#DADCE0" stroke-width="1"/>
+<text x="56" y="440" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Crisis asmática</text>
+<rect x="56" y="452" width="300" height="8" rx="2" fill="#DADCE0" stroke="none" stroke-width="1"/>
+<rect x="56" y="452" width="30.0" height="8" rx="2" fill="#1F1F1F" stroke="none" stroke-width="1"/>
+<text x="366" y="460" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="normal" text-anchor="start" fill="#5F6368">10 %</text>
+<rect x="430" y="444" width="62" height="24" rx="12" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="461.0" y="460" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="middle" fill="#1F1F1F">Baja</text>
+<line x1="56" y1="480" x2="600" y2="480" stroke="#DADCE0" stroke-width="1"/>
+<rect x="568" y="186" width="320" height="372" rx="2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="568" y="186" width="320" height="30" rx="2" fill="#EFEFEF" stroke="none" stroke-width="1"/>
+<text x="580" y="206" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="start" fill="#1F1F1F">Decisión del médico</text>
+<rect x="568" y="186" width="320" height="372" rx="2" fill="none" stroke="#9AA0A6" stroke-width="1"/>
+<text x="580" y="226" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" text-anchor="start" fill="#5F6368">Acción</text>
+<circle cx="587" cy="243" r="6.5" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1.2"/>
+<text x="602" y="247" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Aceptar</text>
+<circle cx="587" cy="269" r="6.5" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1.2"/>
+<circle cx="587" cy="269" r="3.2" fill="#1F1F1F"/>
+<text x="602" y="273" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Rechazar</text>
+<circle cx="587" cy="295" r="6.5" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1.2"/>
+<text x="602" y="299" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Modificar</text>
+<text x="580" y="322" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Comentario clínico (obligatorio)</text>
+<rect x="580" y="328" width="296" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="590" y="347.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Cuadro compatible con bronquitis</text>
+<text x="580" y="384" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="normal" text-anchor="start" fill="#5F6368">Diagnóstico definitivo</text>
+<rect x="580" y="390" width="296" height="30" rx="2" fill="#FFFFFF" stroke="#9AA0A6" stroke-width="1"/>
+<text x="590" y="409.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" text-anchor="start" fill="#1F1F1F">Bronquitis aguda</text>
+<rect x="580" y="448" width="296" height="38" rx="2" fill="#1F1F1F" stroke="#1F1F1F" stroke-width="1"/>
+<text x="728.0" y="471.0" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" fill="#FFFFFF">Registrar decisión</text>
+<circle cx="16" cy="210" r="9" fill="#1F1F1F"/>
+<text x="16" y="214" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">1</text>
+<circle cx="916" cy="250" r="9" fill="#1F1F1F"/>
+<text x="916" y="254" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">2</text>
+<circle cx="916" cy="340" r="9" fill="#1F1F1F"/>
+<text x="916" y="344" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">3</text>
+<circle cx="916" cy="468" r="9" fill="#1F1F1F"/>
+<text x="916" y="472" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF">4</text>
+<text x="32" y="596" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">Rechazar exige comentario: sin él la decisión no se registra.</text>
+<text x="32" y="616" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">Cada decisión alimenta las métricas de precisión del modelo.</text>
+<text x="32" y="636" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="10" font-weight="normal" text-anchor="start" fill="#5F6368">La sugerencia de la IA nunca sustituye el diagnóstico del médico.</text>
+</svg>
